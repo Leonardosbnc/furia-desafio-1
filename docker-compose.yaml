@@ -10,6 +10,9 @@ services:
     expose:
       - "8000"
     environment:
+      - SECRET_KEY=${SECRET_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - DATABASE_URL=${DATABASE_URL}
       - TZ=America/Sao_Paulo
 
   nginx:

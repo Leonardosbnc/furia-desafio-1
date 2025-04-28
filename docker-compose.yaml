@@ -1,0 +1,27 @@
+version: '3.9'
+
+services:
+  app:
+    build: .
+    container_name: furia-app
+    restart: always
+    volumes:
+      - ./data:/app/data
+    expose:
+      - "8000"
+    environment:
+      - TZ=America/Sao_Paulo
+
+  nginx:
+    image: nginx:latest
+    container_name: furia-nginx
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+      - /etc/letsencrypt:/etc/letsencrypt
+      - /var/www/html:/var/www/html
+    depends_on:
+      - app

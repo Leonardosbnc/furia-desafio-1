@@ -50,16 +50,19 @@ def embed_documents(docs, embedder):
 
 
 def load_faiss_index(docs):
-    if os.path.exists(EMBEDDINGS_FILE) and os.path.exists(INDEX_FILE):
-        embeddings = np.load(EMBEDDINGS_FILE)
-        index = faiss.read_index(INDEX_FILE)
-    else:
-        embeddings = embed_documents(docs, embedder)
-        np.save(EMBEDDINGS_FILE, embeddings)
+    if os.path.exists(EMBEDDINGS_FILE):
+        os.remove(EMBEDDINGS_FILE)
+    if os.path.exists(INDEX_FILE):
+        os.remove(INDEX_FILE)
+    if not os.path.exists("data/embeddings"):
+        os.mkdir("data/embeddings")
 
-        index = faiss.IndexFlatL2(embeddings.shape[1])
-        index.add(embeddings)
-        faiss.write_index(index, INDEX_FILE)
+    embeddings = embed_documents(docs, embedder)
+    np.save(EMBEDDINGS_FILE, embeddings)
+
+    index = faiss.IndexFlatL2(embeddings.shape[1])
+    index.add(embeddings)
+    faiss.write_index(index, INDEX_FILE)
 
     return index
 

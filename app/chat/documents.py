@@ -69,7 +69,7 @@ def load_faiss_index(docs):
         index.add(embeddings)
         faiss.write_index(index, INDEX_FILE)
 
-    return embeddings, index
+    return index
 
 
 documents = load_documents()

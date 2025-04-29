@@ -9,13 +9,8 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 def rag_query(user_query: str, docs: List[str], index, embedder, top_k=3):
     query_embedding = embedder.encode([user_query], convert_to_numpy=True)
 
-    # Busca pelos documentos mais relevantes
-    _, I = index.search(
-        query_embedding, top_k
-    )  # I são os índices dos top_k documentos mais relevantes
-    retrieved_docs = [
-        docs[i] for i in I[0]
-    ]  # Recupera os documentos correspondentes
+    _, I = index.search(query_embedding, top_k)
+    retrieved_docs = [docs[i] for i in I[0]]
     context = "\n\n".join(retrieved_docs)
 
     prompt = f"""Você é um assistente da torcida da FURIA. Responda com base nas informações abaixo.

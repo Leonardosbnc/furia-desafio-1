@@ -84,10 +84,9 @@ def login(
     return {"access_token": token, "token_type": "bearer"}
 
 
-# ==== WebSocket com Autenticação ====
+
 @app.websocket("/ws/chat")
 async def websocket_chat(websocket: WebSocket, token: str):
-    print('hey')
     user = verify_token(token)
     if user is None:
         await websocket.close(code=status.WS_1008_POLICY_VIOLATION)

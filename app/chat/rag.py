@@ -7,7 +7,6 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
 def rag_query(user_query: str, docs: List[str], index, embedder, top_k=3):
-    """Função de busca com FAISS para encontrar os documentos mais relevantes e gerar a resposta"""
     query_embedding = embedder.encode([user_query], convert_to_numpy=True)
 
     # Busca pelos documentos mais relevantes
@@ -28,7 +27,7 @@ def rag_query(user_query: str, docs: List[str], index, embedder, top_k=3):
                 Resposta:"""
 
     completion = client.chat.completions.create(
-        model="gpt-3.5-turbo",  # barato e eficaz
+        model="gpt-3.5-turbo",
         messages=[
             {
                 "role": "system",

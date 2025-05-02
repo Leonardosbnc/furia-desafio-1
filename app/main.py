@@ -4,6 +4,7 @@ load_dotenv()
 
 
 import re
+import os
 from fastapi import (
     FastAPI,
     WebSocket,
@@ -13,6 +14,7 @@ from fastapi import (
     HTTPException,
 )
 from fastapi.security import OAuth2PasswordRequestForm
+from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
 from app.auth import verify_token
 from app.chat.documents import index, documents, embedder
@@ -34,13 +36,26 @@ async def lifespan(_):
 app = FastAPI(lifespan=lifespan)
 
 
+origins = [os.getenv("CORS_ORIGIN")]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
 class UserRequest(BaseModel):
     username: str
     password: str
 
 
 @app.post("/user", status_code=201)
-def create_user(user_data: UserRequest, session: Session = Depends(get_session)):
+def create_user(
+    user_data: UserRequest, session: Session = Depends(get_session)
+):
     if re.fullmatch(r"^[A-Za-z]{3,16}$", user_data.username) is None:
         raise HTTPException(status_code=422, detail="Username Inválido")
     if len(user_data.password) < 6 or len(user_data.password) > 24:
@@ -82,7 +97,6 @@ def login(
 
     token = create_access_token(data={"sub": user.username})
     return {"access_token": token, "token_type": "bearer"}
-
 
 
 @app.websocket("/ws/chat")

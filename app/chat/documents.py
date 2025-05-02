@@ -3,12 +3,42 @@ import json
 import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
+from sklearn.preprocessing import normalize
 
 
 EMBEDDINGS_FILE = "data/embeddings/embeddings.npy"
 INDEX_FILE = "data/embeddings/faiss_index.index"
 BATCH_SIZE = 64
 embedder = SentenceTransformer("all-MiniLM-L6-v2")
+
+
+def format_transfer(entry):
+    acao = entry.get("acao")
+    jogador = entry.get("jogador")
+    data = entry.get("data")
+
+    if acao == "transferência":
+        return f"{jogador} foi transferido de {entry.get('origem')} para {entry.get('destino')} em {data}."
+    elif acao == "entrada":
+        return f"{jogador} entrou no time {entry.get('destino')} em {data}."
+    elif acao == "banco":
+        return f"{jogador} foi movido para o banco da {entry.get('time')} em {data}."
+    elif acao == "saida":
+        return f"{jogador} saiu da {entry.get('time')} em {data}."
+    elif acao == "coach":
+        return f"{jogador} assumiu o cargo de coach na {entry.get('time')} em {data}."
+    else:
+        return entry.get("descricao", "")
+
+
+def format_match(entry):
+    data = entry.get("data")
+    desc = entry.get("descricao")
+    adversario = entry.get("oponente")
+    evento = entry.get("evento")
+    resultado = entry.get("resultado")
+    tipo = entry.get("bo")
+    return f"{desc.split('o time')[0]} de {data[:4]}, a FURIA enfrentou {adversario} no evento {evento} e o resultado foi {resultado}. Foi uma série {tipo}."
 
 
 def load_documents():
@@ -18,8 +48,6 @@ def load_documents():
     for file in [
         "data/source/_players.json",
         "data/source/team.json",
-        "data/source/past_match.json",
-        "data/source/transfer_history.json",
         "data/source/player_history.json",
     ]:
         with open(file, "r", encoding="utf-8") as f:
@@ -31,9 +59,36 @@ def load_documents():
                     json.dumps(item, ensure_ascii=False) for item in data
                 )
             elif isinstance(data, dict):
-                documents.append(json.dumps(data, ensure_ascii=False))
+                for _, v in data.items():
+                    documents.append(
+                        ". ".join(v) if isinstance(v, list) else v
+                    )
 
             print(f"Loaded {file}")
+    for file in [
+        "data/source/past_match_2017.json",
+        "data/source/past_match_2018.json",
+        "data/source/past_match_2019.json",
+        "data/source/past_match_2020.json",
+        "data/source/past_match_2021.json",
+        "data/source/past_match_2022.json",
+        "data/source/past_match_2023.json",
+        "data/source/past_match_2024.json",
+        "data/source/past_match_2025.json",
+    ]:
+        with open(file, "r", encoding="utf-8") as f:
+            match_data = json.load(f)
+            for item in match_data:
+                documents.append(format_match(item))
+
+            print(f"Loaded {file}")
+    with open("data/source/transfer_history.json", "r", encoding="utf-8") as f:
+        print(f"Loading {file}")
+        transfer_data = json.load(f)
+        for item in transfer_data:
+            documents.append(format_transfer(item))
+
+        print(f"Loaded {file}")
 
     return documents
 
@@ -58,10 +113,15 @@ def load_faiss_index(docs):
         os.mkdir("data/embeddings")
 
     embeddings = embed_documents(docs, embedder)
+    embeddings = normalize(embeddings, axis=1)
     np.save(EMBEDDINGS_FILE, embeddings)
 
-    index = faiss.IndexFlatL2(embeddings.shape[1])
+    d = embeddings.shape[1]
+    quantizer = faiss.IndexFlatIP(d)
+    index = faiss.IndexIVFFlat(quantizer, d, 4, faiss.METRIC_INNER_PRODUCT)
+    index.train(embeddings)
     index.add(embeddings)
+    index.nprobe = 10
     faiss.write_index(index, INDEX_FILE)
 
     return index

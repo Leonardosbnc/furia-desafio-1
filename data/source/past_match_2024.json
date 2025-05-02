@@ -1,0 +1,488 @@
+[
+  {
+    "data": "2024-12-08",
+    "time": "FURIA",
+    "oponente": "FaZe",
+    "evento": "Perfect World Shanghai Major 2024",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Dezembro o time da FURIA enfrentou FaZe no evento Perfect World Shanghai Major 2024, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-12-07",
+    "time": "FURIA",
+    "oponente": "paiN",
+    "evento": "Perfect World Shanghai Major 2024",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 7 de Dezembro o time da FURIA enfrentou paiN no evento Perfect World Shanghai Major 2024, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2024-12-06",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "Perfect World Shanghai Major 2024",
+    "resultado": "9 - 13",
+    "bo": "bo3",
+    "descricao": "No dia 6 de Dezembro o time da FURIA enfrentou Liquid no evento Perfect World Shanghai Major 2024, e o resultado foi 9 - 13, a partida foi jogada no mapa inf. No dia 5 de Dezembro o time da FURIA enfrentou Vitality no evento Perfect World Shanghai Major 2024, e o resultado foi 13 - 16, a partida foi jogada no mapa mrg. No dia 5 de Dezembro o time da FURIA enfrentou Spirit no evento Perfect World Shanghai Major 2024, e o resultado foi 13 - 6, a partida foi jogada no mapa d2. No dia 2 de Dezembro o time da FURIA enfrentou BIG no evento Perfect World Shanghai Major 2024 Opening Stage, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2024-12-01",
+    "time": "FURIA",
+    "oponente": "Wildcard",
+    "evento": "Perfect World Shanghai Major 2024 Opening Stage",
+    "resultado": "16 - 14",
+    "bo": "bo3",
+    "descricao": "No dia 1 de Dezembro o time da FURIA enfrentou Wildcard no evento Perfect World Shanghai Major 2024 Opening Stage, e o resultado foi 16 - 14, a partida foi jogada no mapa vtg. No dia 30 de Novembro o time da FURIA enfrentou Imperial no evento Perfect World Shanghai Major 2024 Opening Stage, e o resultado foi 13 - 11, a partida foi jogada no mapa anb. No dia 30 de Novembro o time da FURIA enfrentou GamerLegion no evento Perfect World Shanghai Major 2024 Opening Stage, e o resultado foi 8 - 13, a partida foi jogada no mapa vtg. No dia 15 de Novembro o time da FURIA enfrentou M80 no evento Perfect World Shanghai Major 2024 Americas RMR, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-11-15",
+    "time": "FURIA",
+    "oponente": "9z",
+    "evento": "Perfect World Shanghai Major 2024 Americas RMR",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 15 de Novembro o time da FURIA enfrentou 9z no evento Perfect World Shanghai Major 2024 Americas RMR, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-11-14",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "Perfect World Shanghai Major 2024 Americas RMR",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 14 de Novembro o time da FURIA enfrentou Liquid no evento Perfect World Shanghai Major 2024 Americas RMR, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-11-13",
+    "time": "FURIA",
+    "oponente": "BOSS",
+    "evento": "Perfect World Shanghai Major 2024 Americas RMR",
+    "resultado": "13 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 13 de Novembro o time da FURIA enfrentou BOSS no evento Perfect World Shanghai Major 2024 Americas RMR, e o resultado foi 13 - 1, a partida foi jogada no mapa vtg. No dia 12 de Novembro o time da FURIA enfrentou Case no evento Perfect World Shanghai Major 2024 Americas RMR, e o resultado foi 13 - 5, a partida foi jogada no mapa vtg. No dia 12 de Novembro o time da FURIA enfrentou Legacy no evento Perfect World Shanghai Major 2024 Americas RMR, e o resultado foi 17 - 19, a partida foi jogada no mapa inf. No dia 12 de Outubro o time da FURIA enfrentou MOUZ no evento IEM Rio 2024, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-10-09",
+    "time": "FURIA",
+    "oponente": "Natus Vincere",
+    "evento": "IEM Rio 2024",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 9 de Outubro o time da FURIA enfrentou Natus Vincere no evento IEM Rio 2024, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-10-07",
+    "time": "FURIA",
+    "oponente": "MOUZ",
+    "evento": "IEM Rio 2024",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 7 de Outubro o time da FURIA enfrentou MOUZ no evento IEM Rio 2024, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2024-10-07",
+    "time": "FURIA",
+    "oponente": "FaZe",
+    "evento": "IEM Rio 2024",
+    "resultado": "13 - 7",
+    "bo": "bo3",
+    "descricao": "No dia 7 de Outubro o time da FURIA enfrentou FaZe no evento IEM Rio 2024, e o resultado foi 13 - 7, a partida foi jogada no mapa d2. No dia 17 de Setembro o time da FURIA enfrentou Spirit no evento ESL Pro League Season 20, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-09-15",
+    "time": "FURIA",
+    "oponente": "RED Canids",
+    "evento": "ESL Pro League Season 20",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 15 de Setembro o time da FURIA enfrentou RED Canids no evento ESL Pro League Season 20, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-09-14",
+    "time": "FURIA",
+    "oponente": "ATOX",
+    "evento": "ESL Pro League Season 20",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 14 de Setembro o time da FURIA enfrentou ATOX no evento ESL Pro League Season 20, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-09-14",
+    "time": "FURIA",
+    "oponente": "Virtus.pro",
+    "evento": "ESL Pro League Season 20",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 14 de Setembro o time da FURIA enfrentou Virtus.pro no evento ESL Pro League Season 20, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-09-13",
+    "time": "FURIA",
+    "oponente": "RED Canids",
+    "evento": "ESL Pro League Season 20",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 13 de Setembro o time da FURIA enfrentou RED Canids no evento ESL Pro League Season 20, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2024-09-12",
+    "time": "FURIA",
+    "oponente": "Vitality",
+    "evento": "ESL Pro League Season 20",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 12 de Setembro o time da FURIA enfrentou Vitality no evento ESL Pro League Season 20, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-09-11",
+    "time": "FURIA",
+    "oponente": "Falcons",
+    "evento": "ESL Pro League Season 20",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 11 de Setembro o time da FURIA enfrentou Falcons no evento ESL Pro League Season 20, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2024-08-30",
+    "time": "FURIA",
+    "oponente": "Eternal Fire",
+    "evento": "BetBoom Dacha Belgrade Season 2",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 30 de Agosto o time da FURIA enfrentou Eternal Fire no evento BetBoom Dacha Belgrade Season 2, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-08-29",
+    "time": "FURIA",
+    "oponente": "Spirit",
+    "evento": "BetBoom Dacha Belgrade Season 2",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 29 de Agosto o time da FURIA enfrentou Spirit no evento BetBoom Dacha Belgrade Season 2, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-08-28",
+    "time": "FURIA",
+    "oponente": "Virtus.pro",
+    "evento": "BetBoom Dacha Belgrade Season 2",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 28 de Agosto o time da FURIA enfrentou Virtus.pro no evento BetBoom Dacha Belgrade Season 2, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-08-27",
+    "time": "FURIA",
+    "oponente": "Eternal Fire",
+    "evento": "BetBoom Dacha Belgrade Season 2 Play-in",
+    "resultado": "19 - 17",
+    "bo": "bo3",
+    "descricao": "No dia 27 de Agosto o time da FURIA enfrentou Eternal Fire no evento BetBoom Dacha Belgrade Season 2 Play-in, e o resultado foi 19 - 17, a partida foi jogada no mapa d2. No dia 27 de Agosto o time da FURIA enfrentou 9 Pandas no evento BetBoom Dacha Belgrade Season 2 Play-in, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-08-26",
+    "time": "FURIA",
+    "oponente": "Aurora",
+    "evento": "BetBoom Dacha Belgrade Season 2 Play-in",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Agosto o time da FURIA enfrentou Aurora no evento BetBoom Dacha Belgrade Season 2 Play-in, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2024-08-25",
+    "time": "FURIA",
+    "oponente": "9 Pandas",
+    "evento": "BetBoom Dacha Belgrade Season 2 Play-in",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 25 de Agosto o time da FURIA enfrentou 9 Pandas no evento BetBoom Dacha Belgrade Season 2 Play-in, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-08-12",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "IEM Cologne 2024",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 12 de Agosto o time da FURIA enfrentou Liquid no evento IEM Cologne 2024, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-08-11",
+    "time": "FURIA",
+    "oponente": "Vitality",
+    "evento": "IEM Cologne 2024",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 11 de Agosto o time da FURIA enfrentou Vitality no evento IEM Cologne 2024, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-08-09",
+    "time": "FURIA",
+    "oponente": "HEROIC",
+    "evento": "IEM Cologne 2024 Play-in",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 9 de Agosto o time da FURIA enfrentou HEROIC no evento IEM Cologne 2024 Play-in, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2024-08-08",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "IEM Cologne 2024 Play-in",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Agosto o time da FURIA enfrentou Liquid no evento IEM Cologne 2024 Play-in, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-08-07",
+    "time": "FURIA",
+    "oponente": "Imperial",
+    "evento": "IEM Cologne 2024 Play-in",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 7 de Agosto o time da FURIA enfrentou Imperial no evento IEM Cologne 2024 Play-in, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2024-07-19",
+    "time": "FURIA",
+    "oponente": "MOUZ",
+    "evento": "Esports World Cup 2024",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Julho o time da FURIA enfrentou MOUZ no evento Esports World Cup 2024, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-07-18",
+    "time": "FURIA",
+    "oponente": "The MongolZ",
+    "evento": "Esports World Cup 2024",
+    "resultado": "13 - 9",
+    "bo": "bo3",
+    "descricao": "No dia 18 de Julho o time da FURIA enfrentou The MongolZ no evento Esports World Cup 2024, e o resultado foi 13 - 9, a partida foi jogada no mapa nuke. No dia 18 de Julho o time da FURIA enfrentou Sashi no evento Esports World Cup 2024, e o resultado foi 19 - 15, a partida foi jogada no mapa nuke. No dia 18 de Julho o time da FURIA enfrentou FlyQuest no evento Esports World Cup 2024, e o resultado foi 13 - 5, a partida foi jogada no mapa nuke. No dia 17 de Julho o time da FURIA enfrentou Natus Vincere no evento Esports World Cup 2024, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-06-08",
+    "time": "FURIA",
+    "oponente": "Ninjas in Pyjamas",
+    "evento": "YaLLa Compass 2024",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Junho o time da FURIA enfrentou Ninjas in Pyjamas no evento YaLLa Compass 2024, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-06-06",
+    "time": "FURIA",
+    "oponente": "Complexity",
+    "evento": "YaLLa Compass 2024",
+    "resultado": "13 - 9",
+    "bo": "bo3",
+    "descricao": "No dia 6 de Junho o time da FURIA enfrentou Complexity no evento YaLLa Compass 2024, e o resultado foi 13 - 9, a partida foi jogada no mapa inf. No dia 6 de Junho o time da FURIA enfrentou fnatic no evento YaLLa Compass 2024, e o resultado foi 13 - 11, a partida foi jogada no mapa d2. No dia 6 de Junho o time da FURIA enfrentou Eternal Fire no evento YaLLa Compass 2024, e o resultado foi 13 - 7, a partida foi jogada no mapa inf. No dia 5 de Junho o time da FURIA enfrentou BetBoom no evento YaLLa Compass 2024, e o resultado foi 13 - 1, a partida foi jogada no mapa nuke. No dia 5 de Junho o time da FURIA enfrentou BIG no evento YaLLa Compass 2024, e o resultado foi 3 - 13, a partida foi jogada no mapa anc. No dia 2 de Junho o time da FURIA enfrentou GUN5 no evento CCT Season 2 Europe Series 4, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-06-02",
+    "time": "FURIA",
+    "oponente": "MOUZ NXT",
+    "evento": "CCT Season 2 Europe Series 4",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Junho o time da FURIA enfrentou MOUZ NXT no evento CCT Season 2 Europe Series 4, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-06-01",
+    "time": "FURIA",
+    "oponente": "Zero Tenacity",
+    "evento": "CCT Season 2 Europe Series 4",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 1 de Junho o time da FURIA enfrentou Zero Tenacity no evento CCT Season 2 Europe Series 4, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-05-30",
+    "time": "FURIA",
+    "oponente": "RUBY",
+    "evento": "CCT Season 2 Europe Series 4",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 30 de Maio o time da FURIA enfrentou RUBY no evento CCT Season 2 Europe Series 4, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2024-05-25",
+    "time": "FURIA",
+    "oponente": "1win",
+    "evento": "CCT Season 2 Europe Series 3",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 25 de Maio o time da FURIA enfrentou 1win no evento CCT Season 2 Europe Series 3, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-05-24",
+    "time": "FURIA",
+    "oponente": "Passion UA",
+    "evento": "CCT Season 2 Europe Series 3",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 24 de Maio o time da FURIA enfrentou Passion UA no evento CCT Season 2 Europe Series 3, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-05-05",
+    "time": "FURIA",
+    "oponente": "Monte",
+    "evento": "ESL Pro League Season 19",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 5 de Maio o time da FURIA enfrentou Monte no evento ESL Pro League Season 19, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-05-04",
+    "time": "FURIA",
+    "oponente": "ENCE",
+    "evento": "ESL Pro League Season 19",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Maio o time da FURIA enfrentou ENCE no evento ESL Pro League Season 19, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-05-03",
+    "time": "FURIA",
+    "oponente": "Bad News Kangaroos",
+    "evento": "ESL Pro League Season 19",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 3 de Maio o time da FURIA enfrentou Bad News Kangaroos no evento ESL Pro League Season 19, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-05-01",
+    "time": "FURIA",
+    "oponente": "FORZE",
+    "evento": "ESL Pro League Season 19",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 1 de Maio o time da FURIA enfrentou FORZE no evento ESL Pro League Season 19, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-04-30",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "ESL Pro League Season 19",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 30 de Abril o time da FURIA enfrentou Liquid no evento ESL Pro League Season 19, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-04-20",
+    "time": "FURIA",
+    "oponente": "MIBR",
+    "evento": "Global Esports Tour Rio 2024",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Abril o time da FURIA enfrentou MIBR no evento Global Esports Tour Rio 2024, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-04-19",
+    "time": "FURIA",
+    "oponente": "Metizport",
+    "evento": "Global Esports Tour Rio 2024",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Abril o time da FURIA enfrentou Metizport no evento Global Esports Tour Rio 2024, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2024-04-18",
+    "time": "FURIA",
+    "oponente": "9z",
+    "evento": "Global Esports Tour Rio 2024",
+    "resultado": "6 - 13",
+    "bo": "bo3",
+    "descricao": "No dia 18 de Abril o time da FURIA enfrentou 9z no evento Global Esports Tour Rio 2024, e o resultado foi 6 - 13, a partida foi jogada no mapa ovp. No dia 9 de Abril o time da FURIA enfrentou HEROIC no evento IEM Chengdu 2024, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-04-08",
+    "time": "FURIA",
+    "oponente": "MOUZ",
+    "evento": "IEM Chengdu 2024",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Abril o time da FURIA enfrentou MOUZ no evento IEM Chengdu 2024, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-04-08",
+    "time": "FURIA",
+    "oponente": "Lynn Vision",
+    "evento": "IEM Chengdu 2024",
+    "resultado": "13 - 9",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Abril o time da FURIA enfrentou Lynn Vision no evento IEM Chengdu 2024, e o resultado foi 13 - 9, a partida foi jogada no mapa anc. No dia 22 de Março o time da FURIA enfrentou ECSTATIC no evento PGL CS2 Major Copenhagen 2024, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-03-21",
+    "time": "FURIA",
+    "oponente": "FaZe",
+    "evento": "PGL CS2 Major Copenhagen 2024",
+    "resultado": "7 - 13",
+    "bo": "bo3",
+    "descricao": "No dia 21 de Março o time da FURIA enfrentou FaZe no evento PGL CS2 Major Copenhagen 2024, e o resultado foi 7 - 13, a partida foi jogada no mapa anc. No dia 21 de Março o time da FURIA enfrentou G2 no evento PGL CS2 Major Copenhagen 2024, e o resultado foi 3 - 13, a partida foi jogada no mapa inf. No dia 20 de Março o time da FURIA enfrentou SAW no evento PGL CS2 Major Copenhagen 2024 Opening Stage, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-03-19",
+    "time": "FURIA",
+    "oponente": "ENCE",
+    "evento": "PGL CS2 Major Copenhagen 2024 Opening Stage",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Março o time da FURIA enfrentou ENCE no evento PGL CS2 Major Copenhagen 2024 Opening Stage, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-03-18",
+    "time": "FURIA",
+    "oponente": "KOI",
+    "evento": "PGL CS2 Major Copenhagen 2024 Opening Stage",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 18 de Março o time da FURIA enfrentou KOI no evento PGL CS2 Major Copenhagen 2024 Opening Stage, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-03-17",
+    "time": "FURIA",
+    "oponente": "Lynn Vision",
+    "evento": "PGL CS2 Major Copenhagen 2024 Opening Stage",
+    "resultado": "9 - 13",
+    "bo": "bo3",
+    "descricao": "No dia 17 de Março o time da FURIA enfrentou Lynn Vision no evento PGL CS2 Major Copenhagen 2024 Opening Stage, e o resultado foi 9 - 13, a partida foi jogada no mapa nuke. No dia 17 de Março o time da FURIA enfrentou Legacy no evento PGL CS2 Major Copenhagen 2024 Opening Stage, e o resultado foi 13 - 16, a partida foi jogada no mapa anc. No dia 3 de Março o time da FURIA enfrentou Complexity no evento PGL CS2 Major Copenhagen 2024 Americas RMR, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2024-03-02",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "PGL CS2 Major Copenhagen 2024 Americas RMR",
+    "resultado": "13 - 10",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Março o time da FURIA enfrentou Liquid no evento PGL CS2 Major Copenhagen 2024 Americas RMR, e o resultado foi 13 - 10, a partida foi jogada no mapa mrg. No dia 1 de Março o time da FURIA enfrentou Nouns no evento PGL CS2 Major Copenhagen 2024 Americas RMR, e o resultado foi 13 - 9, a partida foi jogada no mapa inf. No dia 24 de Fevereiro o time da FURIA enfrentou 9z no evento IEM Dallas 2024 South America Closed Qualifier, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2024-02-23",
+    "time": "FURIA",
+    "oponente": "9z",
+    "evento": "IEM Dallas 2024 South America Closed Qualifier",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 23 de Fevereiro o time da FURIA enfrentou 9z no evento IEM Dallas 2024 South America Closed Qualifier, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-02-22",
+    "time": "FURIA",
+    "oponente": "Imperial",
+    "evento": "IEM Dallas 2024 South America Closed Qualifier",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 22 de Fevereiro o time da FURIA enfrentou Imperial no evento IEM Dallas 2024 South America Closed Qualifier, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2024-02-10",
+    "time": "FURIA",
+    "oponente": "Metizport",
+    "evento": "RES Western European Masters Spring 2024 - BLAST Premier Qualifier",
+    "resultado": "5 - 13",
+    "bo": "bo3",
+    "descricao": "No dia 10 de Fevereiro o time da FURIA enfrentou Metizport no evento RES Western European Masters Spring 2024 - BLAST Premier Qualifier, e o resultado foi 5 - 13, a partida foi jogada no mapa mrg. No dia 10 de Fevereiro o time da FURIA enfrentou ex-Anonymo no evento RES Western European Masters Spring 2024 - BLAST Premier Qualifier, e o resultado foi 13 - 10, a partida foi jogada no mapa nuke. No dia 10 de Fevereiro o time da FURIA enfrentou Metizport no evento RES Western European Masters Spring 2024 - BLAST Premier Qualifier, e o resultado foi 5 - 13, a partida foi jogada no mapa anc. No dia 1 de Fevereiro o time da FURIA enfrentou Apeks no evento IEM Katowice 2024 Play-in, e o resultado foi 1 - 2, foi uma serie bo3"
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "data": "2020-01-20",
+    "time": "FURIA",
+    "oponente": "Evil Geniuses",
+    "evento": "BLAST Premier Global Final 2020",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Janeiro o time da FURIA enfrentou Evil Geniuses no evento BLAST Premier Global Final 2020, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-01-20",
+    "time": "FURIA",
+    "oponente": "G2",
+    "evento": "BLAST Premier Global Final 2020",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Janeiro o time da FURIA enfrentou G2 no evento BLAST Premier Global Final 2020, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-12-18",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "IEM Global Challenge 2020",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 18 de Dezembro o time da FURIA enfrentou Liquid no evento IEM Global Challenge 2020, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-12-17",
+    "time": "FURIA",
+    "oponente": "HEROIC",
+    "evento": "IEM Global Challenge 2020",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 17 de Dezembro o time da FURIA enfrentou HEROIC no evento IEM Global Challenge 2020, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-12-15",
+    "time": "FURIA",
+    "oponente": "Natus Vincere",
+    "evento": "IEM Global Challenge 2020",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 15 de Dezembro o time da FURIA enfrentou Natus Vincere no evento IEM Global Challenge 2020, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-12-11",
+    "time": "FURIA",
+    "oponente": "Natus Vincere",
+    "evento": "BLAST Premier Fall 2020 Finals",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 11 de Dezembro o time da FURIA enfrentou Natus Vincere no evento BLAST Premier Fall 2020 Finals, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-12-10",
+    "time": "FURIA",
+    "oponente": "OG",
+    "evento": "BLAST Premier Fall 2020 Finals",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 10 de Dezembro o time da FURIA enfrentou OG no evento BLAST Premier Fall 2020 Finals, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-12-09",
+    "time": "FURIA",
+    "oponente": "G2",
+    "evento": "BLAST Premier Fall 2020 Finals",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 9 de Dezembro o time da FURIA enfrentou G2 no evento BLAST Premier Fall 2020 Finals, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-12-05",
+    "time": "FURIA",
+    "oponente": "Astralis",
+    "evento": "DreamHack Masters Winter 2020 Europe",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 5 de Dezembro o time da FURIA enfrentou Astralis no evento DreamHack Masters Winter 2020 Europe, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-12-04",
+    "time": "FURIA",
+    "oponente": "Complexity",
+    "evento": "DreamHack Masters Winter 2020 Europe",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Dezembro o time da FURIA enfrentou Complexity no evento DreamHack Masters Winter 2020 Europe, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-12-02",
+    "time": "FURIA",
+    "oponente": "G2",
+    "evento": "DreamHack Masters Winter 2020 Europe",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Dezembro o time da FURIA enfrentou G2 no evento DreamHack Masters Winter 2020 Europe, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-12-01",
+    "time": "FURIA",
+    "oponente": "North",
+    "evento": "DreamHack Masters Winter 2020 Europe",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 1 de Dezembro o time da FURIA enfrentou North no evento DreamHack Masters Winter 2020 Europe, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-11-29",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "BLAST Premier Fall 2020 Showdown",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 29 de Novembro o time da FURIA enfrentou Liquid no evento BLAST Premier Fall 2020 Showdown, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-11-27",
+    "time": "FURIA",
+    "oponente": "Virtus.pro",
+    "evento": "BLAST Premier Fall 2020 Showdown",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 27 de Novembro o time da FURIA enfrentou Virtus.pro no evento BLAST Premier Fall 2020 Showdown, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-11-24",
+    "time": "FURIA",
+    "oponente": "Isurus",
+    "evento": "BLAST Premier Fall 2020 Showdown",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 24 de Novembro o time da FURIA enfrentou Isurus no evento BLAST Premier Fall 2020 Showdown, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-11-04",
+    "time": "FURIA",
+    "oponente": "MIBR",
+    "evento": "BLAST Premier Fall Series 2020",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Novembro o time da FURIA enfrentou MIBR no evento BLAST Premier Fall Series 2020, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-11-03",
+    "time": "FURIA",
+    "oponente": "G2",
+    "evento": "BLAST Premier Fall Series 2020",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 3 de Novembro o time da FURIA enfrentou G2 no evento BLAST Premier Fall Series 2020, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-10-19",
+    "time": "FURIA",
+    "oponente": "100 Thieves",
+    "evento": "IEM New York 2020 North America",
+    "resultado": "3 - 1",
+    "bo": "bo5",
+    "descricao": "No dia 19 de Outubro o time da FURIA enfrentou 100 Thieves no evento IEM New York 2020 North America, e o resultado foi 3 - 1, foi uma serie bo5. No dia 16 de Outubro o time da FURIA enfrentou Evil Geniuses no evento IEM New York 2020 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-10-16",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "IEM New York 2020 North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 16 de Outubro o time da FURIA enfrentou Liquid no evento IEM New York 2020 North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-10-13",
+    "time": "FURIA",
+    "oponente": "New England Whalers",
+    "evento": "IEM New York 2020 North America",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 13 de Outubro o time da FURIA enfrentou New England Whalers no evento IEM New York 2020 North America, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-10-11",
+    "time": "FURIA",
+    "oponente": "ImPerium",
+    "evento": "IEM New York 2020 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 11 de Outubro o time da FURIA enfrentou ImPerium no evento IEM New York 2020 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-10-09",
+    "time": "FURIA",
+    "oponente": "Evil Geniuses",
+    "evento": "IEM New York 2020 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 9 de Outubro o time da FURIA enfrentou Evil Geniuses no evento IEM New York 2020 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-10-08",
+    "time": "FURIA",
+    "oponente": "Triumph",
+    "evento": "IEM New York 2020 North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Outubro o time da FURIA enfrentou Triumph no evento IEM New York 2020 North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-10-07",
+    "time": "FURIA",
+    "oponente": "Rebirth",
+    "evento": "IEM New York 2020 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 7 de Outubro o time da FURIA enfrentou Rebirth no evento IEM New York 2020 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-09-27",
+    "time": "FURIA",
+    "oponente": "100 Thieves",
+    "evento": "ESL Pro League Season 12 North America",
+    "resultado": "3 - 0",
+    "bo": "bo5",
+    "descricao": "No dia 27 de Setembro o time da FURIA enfrentou 100 Thieves no evento ESL Pro League Season 12 North America, e o resultado foi 3 - 0, foi uma serie bo5. No dia 24 de Setembro o time da FURIA enfrentou Evil Geniuses no evento ESL Pro League Season 12 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-09-22",
+    "time": "FURIA",
+    "oponente": "Chaos",
+    "evento": "ESL Pro League Season 12 North America",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 22 de Setembro o time da FURIA enfrentou Chaos no evento ESL Pro League Season 12 North America, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-09-20",
+    "time": "FURIA",
+    "oponente": "100 Thieves",
+    "evento": "ESL Pro League Season 12 North America",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Setembro o time da FURIA enfrentou 100 Thieves no evento ESL Pro League Season 12 North America, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-09-19",
+    "time": "FURIA",
+    "oponente": "Gen.G",
+    "evento": "ESL Pro League Season 12 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Setembro o time da FURIA enfrentou Gen.G no evento ESL Pro League Season 12 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-09-16",
+    "time": "FURIA",
+    "oponente": "Evil Geniuses",
+    "evento": "ESL Pro League Season 12 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 16 de Setembro o time da FURIA enfrentou Evil Geniuses no evento ESL Pro League Season 12 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-09-13",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "ESL Pro League Season 12 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 13 de Setembro o time da FURIA enfrentou Liquid no evento ESL Pro League Season 12 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-09-09",
+    "time": "FURIA",
+    "oponente": "Triumph",
+    "evento": "ESL Pro League Season 12 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 9 de Setembro o time da FURIA enfrentou Triumph no evento ESL Pro League Season 12 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-09-03",
+    "time": "FURIA",
+    "oponente": "Cloud9",
+    "evento": "ESL Pro League Season 12 North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 3 de Setembro o time da FURIA enfrentou Cloud9 no evento ESL Pro League Season 12 North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-08-29",
+    "time": "FURIA",
+    "oponente": "Evil Geniuses",
+    "evento": "ESL One Cologne 2020 North America",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 29 de Agosto o time da FURIA enfrentou Evil Geniuses no evento ESL One Cologne 2020 North America, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-08-26",
+    "time": "FURIA",
+    "oponente": "100 Thieves",
+    "evento": "ESL One Cologne 2020 North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Agosto o time da FURIA enfrentou 100 Thieves no evento ESL One Cologne 2020 North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-08-23",
+    "time": "FURIA",
+    "oponente": "Gen.G",
+    "evento": "ESL One Cologne 2020 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 23 de Agosto o time da FURIA enfrentou Gen.G no evento ESL One Cologne 2020 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-08-19",
+    "time": "FURIA",
+    "oponente": "Chaos",
+    "evento": "ESL One Cologne 2020 North America",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Agosto o time da FURIA enfrentou Chaos no evento ESL One Cologne 2020 North America, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-08-16",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "DreamHack Open Summer 2020 North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 16 de Agosto o time da FURIA enfrentou Liquid no evento DreamHack Open Summer 2020 North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-08-14",
+    "time": "FURIA",
+    "oponente": "Chaos",
+    "evento": "DreamHack Open Summer 2020 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 14 de Agosto o time da FURIA enfrentou Chaos no evento DreamHack Open Summer 2020 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-08-12",
+    "time": "FURIA",
+    "oponente": "TeamOne",
+    "evento": "DreamHack Open Summer 2020 North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 12 de Agosto o time da FURIA enfrentou TeamOne no evento DreamHack Open Summer 2020 North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-08-09",
+    "time": "FURIA",
+    "oponente": "Yeah",
+    "evento": "DreamHack Open Summer 2020 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 9 de Agosto o time da FURIA enfrentou Yeah no evento DreamHack Open Summer 2020 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-07-03",
+    "time": "FURIA",
+    "oponente": "Cloud9",
+    "evento": "cs_summit 6 North America",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 3 de Julho o time da FURIA enfrentou Cloud9 no evento cs_summit 6 North America, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-06-28",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "cs_summit 6 North America",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 28 de Junho o time da FURIA enfrentou Liquid no evento cs_summit 6 North America, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-06-26",
+    "time": "FURIA",
+    "oponente": "MIBR",
+    "evento": "cs_summit 6 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Junho o time da FURIA enfrentou MIBR no evento cs_summit 6 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-06-26",
+    "time": "FURIA",
+    "oponente": "Evil Geniuses",
+    "evento": "cs_summit 6 North America",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Junho o time da FURIA enfrentou Evil Geniuses no evento cs_summit 6 North America, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-06-21",
+    "time": "FURIA",
+    "oponente": "Evil Geniuses",
+    "evento": "BLAST Premier Spring 2020 Americas Finals",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 21 de Junho o time da FURIA enfrentou Evil Geniuses no evento BLAST Premier Spring 2020 Americas Finals, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-06-19",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "BLAST Premier Spring 2020 Americas Finals",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Junho o time da FURIA enfrentou Liquid no evento BLAST Premier Spring 2020 Americas Finals, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-06-17",
+    "time": "FURIA",
+    "oponente": "MIBR",
+    "evento": "BLAST Premier Spring 2020 Americas Finals",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 17 de Junho o time da FURIA enfrentou MIBR no evento BLAST Premier Spring 2020 Americas Finals, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-06-14",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "DreamHack Masters Spring 2020 - North America",
+    "resultado": "3 - 0",
+    "bo": "bo5",
+    "descricao": "No dia 14 de Junho o time da FURIA enfrentou Liquid no evento DreamHack Masters Spring 2020 - North America, e o resultado foi 3 - 0, foi uma serie bo5. No dia 12 de Junho o time da FURIA enfrentou 100 Thieves no evento DreamHack Masters Spring 2020 - North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-06-11",
+    "time": "FURIA",
+    "oponente": "Triumph",
+    "evento": "ESL Pro League Season 12 North America Qualifier",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 11 de Junho o time da FURIA enfrentou Triumph no evento ESL Pro League Season 12 North America Qualifier, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-06-10",
+    "time": "FURIA",
+    "oponente": "Infinity",
+    "evento": "ESL Pro League Season 12 North America Qualifier",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 10 de Junho o time da FURIA enfrentou Infinity no evento ESL Pro League Season 12 North America Qualifier, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-06-06",
+    "time": "FURIA",
+    "oponente": "Gen.G",
+    "evento": "BLAST Premier Spring 2020 Americas Showdown",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 6 de Junho o time da FURIA enfrentou Gen.G no evento BLAST Premier Spring 2020 Americas Showdown, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-06-04",
+    "time": "FURIA",
+    "oponente": "Chaos",
+    "evento": "BLAST Premier Spring 2020 Americas Showdown",
+    "resultado": "16 - 5",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Junho o time da FURIA enfrentou Chaos no evento BLAST Premier Spring 2020 Americas Showdown, e o resultado foi 16 - 5, a partida foi jogada no mapa inf. No dia 3 de Junho o time da FURIA enfrentou Gen.G no evento BLAST Premier Spring 2020 Americas Showdown, e o resultado foi 16 - 8, a partida foi jogada no mapa inf. No dia 1 de Junho o time da FURIA enfrentou MIBR no evento BLAST Premier Spring 2020 Americas Showdown, e o resultado foi 13 - 16, a partida foi jogada no mapa inf. No dia 25 de Maio o time da FURIA enfrentou Chaos no evento DreamHack Masters Spring 2020 - North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-05-22",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "DreamHack Masters Spring 2020 - North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 22 de Maio o time da FURIA enfrentou Liquid no evento DreamHack Masters Spring 2020 - North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-05-20",
+    "time": "FURIA",
+    "oponente": "MIBR",
+    "evento": "DreamHack Masters Spring 2020 - North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Maio o time da FURIA enfrentou MIBR no evento DreamHack Masters Spring 2020 - North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-05-11",
+    "time": "FURIA",
+    "oponente": "Gen.G",
+    "evento": "ESL One: Road to Rio - North America",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 11 de Maio o time da FURIA enfrentou Gen.G no evento ESL One: Road to Rio - North America, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-05-10",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "ESL One: Road to Rio - North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 10 de Maio o time da FURIA enfrentou Liquid no evento ESL One: Road to Rio - North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-05-04",
+    "time": "FURIA",
+    "oponente": "MIBR",
+    "evento": "ESL One: Road to Rio - North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Maio o time da FURIA enfrentou MIBR no evento ESL One: Road to Rio - North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-05-02",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "ESL One: Road to Rio - North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Maio o time da FURIA enfrentou Liquid no evento ESL One: Road to Rio - North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-04-30",
+    "time": "FURIA",
+    "oponente": "Yeah",
+    "evento": "ESL One: Road to Rio - North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 30 de Abril o time da FURIA enfrentou Yeah no evento ESL One: Road to Rio - North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-04-26",
+    "time": "FURIA",
+    "oponente": "Bad News Bears",
+    "evento": "ESL One: Road to Rio - North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Abril o time da FURIA enfrentou Bad News Bears no evento ESL One: Road to Rio - North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-04-24",
+    "time": "FURIA",
+    "oponente": "Envy",
+    "evento": "ESL One: Road to Rio - North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 24 de Abril o time da FURIA enfrentou Envy no evento ESL One: Road to Rio - North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-04-12",
+    "time": "FURIA",
+    "oponente": "Evil Geniuses",
+    "evento": "ESL Pro League Season 11 North America",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 12 de Abril o time da FURIA enfrentou Evil Geniuses no evento ESL Pro League Season 11 North America, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-04-10",
+    "time": "FURIA",
+    "oponente": "MIBR",
+    "evento": "ESL Pro League Season 11 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 10 de Abril o time da FURIA enfrentou MIBR no evento ESL Pro League Season 11 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-04-04",
+    "time": "FURIA",
+    "oponente": "100 Thieves",
+    "evento": "ESL Pro League Season 11 North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Abril o time da FURIA enfrentou 100 Thieves no evento ESL Pro League Season 11 North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-04-02",
+    "time": "FURIA",
+    "oponente": "Swole Patrol",
+    "evento": "ESL Pro League Season 11 North America",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Abril o time da FURIA enfrentou Swole Patrol no evento ESL Pro League Season 11 North America, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-04-02",
+    "time": "FURIA",
+    "oponente": "Evil Geniuses",
+    "evento": "ESL Pro League Season 11 North America",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Abril o time da FURIA enfrentou Evil Geniuses no evento ESL Pro League Season 11 North America, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-03-31",
+    "time": "FURIA",
+    "oponente": "MIBR",
+    "evento": "ESL Pro League Season 11 North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 31 de Março o time da FURIA enfrentou MIBR no evento ESL Pro League Season 11 North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-03-30",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "ESL Pro League Season 11 North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 30 de Março o time da FURIA enfrentou Liquid no evento ESL Pro League Season 11 North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-03-08",
+    "time": "FURIA",
+    "oponente": "Envy",
+    "evento": "Americas Minor North America Closed Qualifier - ESL One Rio 2020",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Março o time da FURIA enfrentou Envy no evento Americas Minor North America Closed Qualifier - ESL One Rio 2020, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-03-07",
+    "time": "FURIA",
+    "oponente": "Triumph",
+    "evento": "Americas Minor North America Closed Qualifier - ESL One Rio 2020",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 7 de Março o time da FURIA enfrentou Triumph no evento Americas Minor North America Closed Qualifier - ESL One Rio 2020, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2020-02-24",
+    "time": "FURIA",
+    "oponente": "Gen.G",
+    "evento": "DreamHack Open Anaheim 2020",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 24 de Fevereiro o time da FURIA enfrentou Gen.G no evento DreamHack Open Anaheim 2020, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-02-24",
+    "time": "FURIA",
+    "oponente": "Complexity",
+    "evento": "DreamHack Open Anaheim 2020",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 24 de Fevereiro o time da FURIA enfrentou Complexity no evento DreamHack Open Anaheim 2020, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2020-02-22",
+    "time": "FURIA",
+    "oponente": "North",
+    "evento": "DreamHack Open Anaheim 2020",
+    "resultado": "16 - 3",
+    "bo": "bo3",
+    "descricao": "No dia 22 de Fevereiro o time da FURIA enfrentou North no evento DreamHack Open Anaheim 2020, e o resultado foi 16 - 3, a partida foi jogada no mapa ovp. No dia 21 de Fevereiro o time da FURIA enfrentou Endpoint no evento DreamHack Open Anaheim 2020, e o resultado foi 16 - 6, a partida foi jogada no mapa inf. No dia 8 de Janeiro o time da FURIA enfrentou Gen.G no evento IEM Katowice 2020 North America Closed Qualifier, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2020-01-08",
+    "time": "FURIA",
+    "oponente": "Chaos",
+    "evento": "IEM Katowice 2020 North America Closed Qualifier",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Janeiro o time da FURIA enfrentou Chaos no evento IEM Katowice 2020 North America Closed Qualifier, e o resultado foi 0 - 2, foi uma serie bo3"
+  }
+]

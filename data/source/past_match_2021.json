@@ -1,0 +1,524 @@
+[
+  {
+    "data": "2021-11-05",
+    "time": "FURIA",
+    "oponente": "Gambit",
+    "evento": "PGL Major Stockholm 2021",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 5 de Novembro o time da FURIA enfrentou Gambit no evento PGL Major Stockholm 2021, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-11-01",
+    "time": "FURIA",
+    "oponente": "Entropiq",
+    "evento": "PGL Major Stockholm 2021",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 1 de Novembro o time da FURIA enfrentou Entropiq no evento PGL Major Stockholm 2021, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-10-31",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "PGL Major Stockholm 2021",
+    "resultado": "16 - 9",
+    "bo": "bo5",
+    "descricao": "No dia 31 de Outubro o time da FURIA enfrentou Liquid no evento PGL Major Stockholm 2021, e o resultado foi 16 - 9, a partida foi jogada no mapa inf. No dia 30 de Outubro o time da FURIA enfrentou MOUZ no evento PGL Major Stockholm 2021, e o resultado foi 16 - 9, a partida foi jogada no mapa inf. No dia 30 de Outubro o time da FURIA enfrentou Astralis no evento PGL Major Stockholm 2021, e o resultado foi 10 - 16, a partida foi jogada no mapa inf. No dia 20 de Outubro o time da FURIA enfrentou MIBR no evento Battle of Betway 2021, e o resultado foi 0 - 13, a partida foi jogada no mapa inf. No dia 20 de Outubro o time da FURIA enfrentou Ninjas in Pyjamas no evento Battle of Betway 2021, e o resultado foi 13 - 2, a partida foi jogada no mapa inf. No dia 20 de Outubro o time da FURIA enfrentou BIG no evento Battle of Betway 2021, e o resultado foi 12 - 12, a partida foi jogada no mapa tcn. No dia 20 de Outubro o time da FURIA enfrentou MIBR no evento Battle of Betway 2021, e o resultado foi 5 - 13, a partida foi jogada no mapa cbl. No dia 20 de Outubro o time da FURIA enfrentou G2 no evento Battle of Betway 2021, e o resultado foi 13 - 11, a partida foi jogada no mapa cch. No dia 11 de Outubro o time da FURIA enfrentou GODSENT no evento IEM Fall 2021 North America, e o resultado foi 3 - 0, foi uma serie bo5. No dia 9 de Outubro o time da FURIA enfrentou paiN no evento IEM Fall 2021 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-10-08",
+    "time": "FURIA",
+    "oponente": "Evil Geniuses",
+    "evento": "IEM Fall 2021 North America",
+    "resultado": "16 - 14",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Outubro o time da FURIA enfrentou Evil Geniuses no evento IEM Fall 2021 North America, e o resultado foi 16 - 14, a partida foi jogada no mapa inf. No dia 7 de Outubro o time da FURIA enfrentou TeamOne no evento IEM Fall 2021 North America, e o resultado foi 16 - 4, a partida foi jogada no mapa mrg. No dia 6 de Outubro o time da FURIA enfrentou 00NATION no evento IEM Fall 2021 North America, e o resultado foi 16 - 13, a partida foi jogada no mapa mrg. No dia 6 de Outubro o time da FURIA enfrentou Triumph no evento IEM Fall 2021 North America, e o resultado foi 16 - 5, a partida foi jogada no mapa inf. No dia 5 de Outubro o time da FURIA enfrentou GODSENT no evento IEM Fall 2021 North America, e o resultado foi 16 - 11, a partida foi jogada no mapa mrg. No dia 5 de Outubro o time da FURIA enfrentou GODSENT no evento IEM Winter 2021 North America Closed Qualifier, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-10-04",
+    "time": "FURIA",
+    "oponente": "GODSENT",
+    "evento": "IEM Winter 2021 North America Closed Qualifier",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Outubro o time da FURIA enfrentou GODSENT no evento IEM Winter 2021 North America Closed Qualifier, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-10-04",
+    "time": "FURIA",
+    "oponente": "paiN",
+    "evento": "IEM Winter 2021 North America Closed Qualifier",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Outubro o time da FURIA enfrentou paiN no evento IEM Winter 2021 North America Closed Qualifier, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-09-21",
+    "time": "FURIA",
+    "oponente": "SINNERS",
+    "evento": "Malta Vibes Knockout Series 2",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 21 de Setembro o time da FURIA enfrentou SINNERS no evento Malta Vibes Knockout Series 2, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-09-19",
+    "time": "FURIA",
+    "oponente": "MOUZ NXT",
+    "evento": "Malta Vibes Knockout Series 2",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Setembro o time da FURIA enfrentou MOUZ NXT no evento Malta Vibes Knockout Series 2, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-09-05",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "ESL Pro League Season 14",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 5 de Setembro o time da FURIA enfrentou Liquid no evento ESL Pro League Season 14, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-09-04",
+    "time": "FURIA",
+    "oponente": "Ninjas in Pyjamas",
+    "evento": "ESL Pro League Season 14",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Setembro o time da FURIA enfrentou Ninjas in Pyjamas no evento ESL Pro League Season 14, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-09-03",
+    "time": "FURIA",
+    "oponente": "Gambit",
+    "evento": "ESL Pro League Season 14",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 3 de Setembro o time da FURIA enfrentou Gambit no evento ESL Pro League Season 14, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-09-02",
+    "time": "FURIA",
+    "oponente": "TeamOne",
+    "evento": "ESL Pro League Season 14",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Setembro o time da FURIA enfrentou TeamOne no evento ESL Pro League Season 14, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-09-01",
+    "time": "FURIA",
+    "oponente": "Entropiq",
+    "evento": "ESL Pro League Season 14",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 1 de Setembro o time da FURIA enfrentou Entropiq no evento ESL Pro League Season 14, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-07-11",
+    "time": "FURIA",
+    "oponente": "HEROIC",
+    "evento": "IEM Cologne 2021",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 11 de Julho o time da FURIA enfrentou HEROIC no evento IEM Cologne 2021, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-07-10",
+    "time": "FURIA",
+    "oponente": "Renegades",
+    "evento": "IEM Cologne 2021",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 10 de Julho o time da FURIA enfrentou Renegades no evento IEM Cologne 2021, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-07-08",
+    "time": "FURIA",
+    "oponente": "Vitality",
+    "evento": "IEM Cologne 2021",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Julho o time da FURIA enfrentou Vitality no evento IEM Cologne 2021, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-07-04",
+    "time": "FURIA",
+    "oponente": "SKADE",
+    "evento": "Elisa Invitational Summer 2021",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Julho o time da FURIA enfrentou SKADE no evento Elisa Invitational Summer 2021, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-07-04",
+    "time": "FURIA",
+    "oponente": "Endpoint",
+    "evento": "Elisa Invitational Summer 2021",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Julho o time da FURIA enfrentou Endpoint no evento Elisa Invitational Summer 2021, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-07-03",
+    "time": "FURIA",
+    "oponente": "777",
+    "evento": "Elisa Invitational Summer 2021",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 3 de Julho o time da FURIA enfrentou 777 no evento Elisa Invitational Summer 2021, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-06-29",
+    "time": "FURIA",
+    "oponente": "1win",
+    "evento": "Spring Sweet Spring 3",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 29 de Junho o time da FURIA enfrentou 1win no evento Spring Sweet Spring 3, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-06-27",
+    "time": "FURIA",
+    "oponente": "BIG",
+    "evento": "Gamers Without Borders 2021",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 27 de Junho o time da FURIA enfrentou BIG no evento Gamers Without Borders 2021, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-06-26",
+    "time": "FURIA",
+    "oponente": "ENCE",
+    "evento": "Gamers Without Borders 2021",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Junho o time da FURIA enfrentou ENCE no evento Gamers Without Borders 2021, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-06-25",
+    "time": "FURIA",
+    "oponente": "FaZe",
+    "evento": "Gamers Without Borders 2021",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 25 de Junho o time da FURIA enfrentou FaZe no evento Gamers Without Borders 2021, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-06-25",
+    "time": "FURIA",
+    "oponente": "BIG",
+    "evento": "Gamers Without Borders 2021",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 25 de Junho o time da FURIA enfrentou BIG no evento Gamers Without Borders 2021, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-06-24",
+    "time": "FURIA",
+    "oponente": "Dignitas",
+    "evento": "Gamers Without Borders 2021",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 24 de Junho o time da FURIA enfrentou Dignitas no evento Gamers Without Borders 2021, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-05-31",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "cs_summit 8",
+    "resultado": "1 - 3",
+    "bo": "bo5",
+    "descricao": "No dia 31 de Maio o time da FURIA enfrentou Liquid no evento cs_summit 8, e o resultado foi 1 - 3, foi uma serie bo5. No dia 30 de Maio o time da FURIA enfrentou EXTREMUM no evento cs_summit 8, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-05-29",
+    "time": "FURIA",
+    "oponente": "Liquid",
+    "evento": "cs_summit 8",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 29 de Maio o time da FURIA enfrentou Liquid no evento cs_summit 8, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-05-27",
+    "time": "FURIA",
+    "oponente": "Extra Salt",
+    "evento": "cs_summit 8",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 27 de Maio o time da FURIA enfrentou Extra Salt no evento cs_summit 8, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-05-25",
+    "time": "FURIA",
+    "oponente": "O PLANO",
+    "evento": "cs_summit 8",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 25 de Maio o time da FURIA enfrentou O PLANO no evento cs_summit 8, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-05-24",
+    "time": "FURIA",
+    "oponente": "Evil Geniuses",
+    "evento": "cs_summit 8",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 24 de Maio o time da FURIA enfrentou Evil Geniuses no evento cs_summit 8, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-05-22",
+    "time": "FURIA",
+    "oponente": "O PLANO",
+    "evento": "cs_summit 8",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 22 de Maio o time da FURIA enfrentou O PLANO no evento cs_summit 8, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-05-08",
+    "time": "FURIA",
+    "oponente": "Natus Vincere",
+    "evento": "DreamHack Masters Spring 2021",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Maio o time da FURIA enfrentou Natus Vincere no evento DreamHack Masters Spring 2021, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-05-05",
+    "time": "FURIA",
+    "oponente": "FORZE",
+    "evento": "Spring Sweet Spring 1",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 5 de Maio o time da FURIA enfrentou FORZE no evento Spring Sweet Spring 1, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-05-04",
+    "time": "FURIA",
+    "oponente": "SINNERS",
+    "evento": "Spring Sweet Spring 1",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Maio o time da FURIA enfrentou SINNERS no evento Spring Sweet Spring 1, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-05-02",
+    "time": "FURIA",
+    "oponente": "Vitality",
+    "evento": "DreamHack Masters Spring 2021",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Maio o time da FURIA enfrentou Vitality no evento DreamHack Masters Spring 2021, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-05-01",
+    "time": "FURIA",
+    "oponente": "Complexity",
+    "evento": "DreamHack Masters Spring 2021",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 1 de Maio o time da FURIA enfrentou Complexity no evento DreamHack Masters Spring 2021, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-04-30",
+    "time": "FURIA",
+    "oponente": "paiN",
+    "evento": "DreamHack Masters Spring 2021",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 30 de Abril o time da FURIA enfrentou paiN no evento DreamHack Masters Spring 2021, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-04-29",
+    "time": "FURIA",
+    "oponente": "BIG",
+    "evento": "DreamHack Masters Spring 2021",
+    "resultado": "6 - 16",
+    "bo": "bo3",
+    "descricao": "No dia 29 de Abril o time da FURIA enfrentou BIG no evento DreamHack Masters Spring 2021, e o resultado foi 6 - 16, a partida foi jogada no mapa vtg. No dia 27 de Abril o time da FURIA enfrentou FaZe no evento IEM Summer 2021 Closed Qualifier, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-04-26",
+    "time": "FURIA",
+    "oponente": "Movistar Riders",
+    "evento": "IEM Summer 2021 Closed Qualifier",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Abril o time da FURIA enfrentou Movistar Riders no evento IEM Summer 2021 Closed Qualifier, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-04-17",
+    "time": "FURIA",
+    "oponente": "Gambit",
+    "evento": "BLAST Premier Spring Showdown 2021",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 17 de Abril o time da FURIA enfrentou Gambit no evento BLAST Premier Spring Showdown 2021, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-04-14",
+    "time": "FURIA",
+    "oponente": "MIBR",
+    "evento": "BLAST Premier Spring Showdown 2021",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 14 de Abril o time da FURIA enfrentou MIBR no evento BLAST Premier Spring Showdown 2021, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-04-10",
+    "time": "FURIA",
+    "oponente": "HEROIC",
+    "evento": "ESL Pro League Season 13",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 10 de Abril o time da FURIA enfrentou HEROIC no evento ESL Pro League Season 13, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-04-09",
+    "time": "FURIA",
+    "oponente": "Astralis",
+    "evento": "ESL Pro League Season 13",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 9 de Abril o time da FURIA enfrentou Astralis no evento ESL Pro League Season 13, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-04-04",
+    "time": "FURIA",
+    "oponente": "G2",
+    "evento": "ESL Pro League Season 13",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 4 de Abril o time da FURIA enfrentou G2 no evento ESL Pro League Season 13, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-04-02",
+    "time": "FURIA",
+    "oponente": "FunPlus Phoenix",
+    "evento": "ESL Pro League Season 13",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Abril o time da FURIA enfrentou FunPlus Phoenix no evento ESL Pro League Season 13, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-03-24",
+    "time": "FURIA",
+    "oponente": "Gambit",
+    "evento": "ESL Pro League Season 13",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 24 de Março o time da FURIA enfrentou Gambit no evento ESL Pro League Season 13, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-03-22",
+    "time": "FURIA",
+    "oponente": "Cloud9",
+    "evento": "ESL Pro League Season 13",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 22 de Março o time da FURIA enfrentou Cloud9 no evento ESL Pro League Season 13, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-03-21",
+    "time": "FURIA",
+    "oponente": "MIBR",
+    "evento": "ESL Pro League Season 13",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 21 de Março o time da FURIA enfrentou MIBR no evento ESL Pro League Season 13, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-03-20",
+    "time": "FURIA",
+    "oponente": "Natus Vincere",
+    "evento": "ESL Pro League Season 13",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Março o time da FURIA enfrentou Natus Vincere no evento ESL Pro League Season 13, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-03-19",
+    "time": "FURIA",
+    "oponente": "TeamOne",
+    "evento": "ESL Pro League Season 13",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Março o time da FURIA enfrentou TeamOne no evento ESL Pro League Season 13, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-02-21",
+    "time": "FURIA",
+    "oponente": "Virtus.pro",
+    "evento": "IEM Katowice 2021",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 21 de Fevereiro o time da FURIA enfrentou Virtus.pro no evento IEM Katowice 2021, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-02-21",
+    "time": "FURIA",
+    "oponente": "FaZe",
+    "evento": "IEM Katowice 2021",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 21 de Fevereiro o time da FURIA enfrentou FaZe no evento IEM Katowice 2021, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-02-20",
+    "time": "FURIA",
+    "oponente": "Natus Vincere",
+    "evento": "IEM Katowice 2021",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Fevereiro o time da FURIA enfrentou Natus Vincere no evento IEM Katowice 2021, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-02-19",
+    "time": "FURIA",
+    "oponente": "Ninjas in Pyjamas",
+    "evento": "IEM Katowice 2021",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Fevereiro o time da FURIA enfrentou Ninjas in Pyjamas no evento IEM Katowice 2021, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2021-01-29",
+    "time": "FURIA",
+    "oponente": "MOUZ",
+    "evento": "cs_summit 7",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 29 de Janeiro o time da FURIA enfrentou MOUZ no evento cs_summit 7, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-01-29",
+    "time": "FURIA",
+    "oponente": "Cloud9",
+    "evento": "cs_summit 7",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 29 de Janeiro o time da FURIA enfrentou Cloud9 no evento cs_summit 7, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2021-01-26",
+    "time": "FURIA",
+    "oponente": "Virtus.pro",
+    "evento": "cs_summit 7",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Janeiro o time da FURIA enfrentou Virtus.pro no evento cs_summit 7, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2021-01-26",
+    "time": "FURIA",
+    "oponente": "Cloud9",
+    "evento": "cs_summit 7",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Janeiro o time da FURIA enfrentou Cloud9 no evento cs_summit 7, e o resultado foi 2 - 1, foi uma serie bo3"
+  }
+]

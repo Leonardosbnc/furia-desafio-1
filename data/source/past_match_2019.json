@@ -1,0 +1,794 @@
+[
+  {
+    "data": "2019-12-21",
+    "time": "FURIA",
+    "oponente": "Spirit",
+    "evento": "Champions Cup Finals",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 21 de Dezembro o time da FURIA enfrentou Spirit no evento Champions Cup Finals, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-12-19",
+    "time": "FURIA",
+    "oponente": "Movistar Riders",
+    "evento": "Champions Cup Finals",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Dezembro o time da FURIA enfrentou Movistar Riders no evento Champions Cup Finals, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-12-19",
+    "time": "FURIA",
+    "oponente": "TYLOO",
+    "evento": "Champions Cup Finals",
+    "resultado": "16 - 14",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Dezembro o time da FURIA enfrentou TYLOO no evento Champions Cup Finals, e o resultado foi 16 - 14, a partida foi jogada no mapa mrg. No dia 15 de Dezembro o time da FURIA enfrentou MOUZ no evento cs_summit 5, e o resultado foi 5 - 16, a partida foi jogada no mapa vtg. No dia 15 de Dezembro o time da FURIA enfrentou MOUZ no evento cs_summit 5, e o resultado foi 9 - 16, a partida foi jogada no mapa mrg. No dia 15 de Dezembro o time da FURIA enfrentou OG no evento cs_summit 5, e o resultado foi 7 - 16, a partida foi jogada no mapa inf. No dia 15 de Dezembro o time da FURIA enfrentou OG no evento cs_summit 5, e o resultado foi 14 - 16, a partida foi jogada no mapa ovp. No dia 14 de Dezembro o time da FURIA enfrentou MIBR no evento cs_summit 5, e o resultado foi 19 - 17, a partida foi jogada no mapa inf. No dia 14 de Dezembro o time da FURIA enfrentou MIBR no evento cs_summit 5, e o resultado foi 16 - 9, a partida foi jogada no mapa mrg. No dia 13 de Dezembro o time da FURIA enfrentou G2 no evento cs_summit 5, e o resultado foi 11 - 16, a partida foi jogada no mapa nuke. No dia 13 de Dezembro o time da FURIA enfrentou G2 no evento cs_summit 5, e o resultado foi 14 - 16, a partida foi jogada no mapa vtg. No dia 13 de Dezembro o time da FURIA enfrentou Virtus.pro no evento cs_summit 5, e o resultado foi 5 - 16, a partida foi jogada no mapa nuke. No dia 12 de Dezembro o time da FURIA enfrentou Virtus.pro no evento cs_summit 5, e o resultado foi 16 - 9, a partida foi jogada no mapa mrg. No dia 30 de Novembro o time da FURIA enfrentou FORZE no evento DreamHack Open Winter 2019, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-11-29",
+    "time": "FURIA",
+    "oponente": "Tricked",
+    "evento": "DreamHack Open Winter 2019",
+    "resultado": "14 - 16",
+    "bo": "bo3",
+    "descricao": "No dia 29 de Novembro o time da FURIA enfrentou Tricked no evento DreamHack Open Winter 2019, e o resultado foi 14 - 16, a partida foi jogada no mapa ovp. No dia 29 de Novembro o time da FURIA enfrentou Marskalk no evento DreamHack Open Winter 2019, e o resultado foi 16 - 10, a partida foi jogada no mapa nuke. No dia 19 de Novembro o time da FURIA enfrentou 100 Thieves no evento ESL Pro League Season 10 Americas, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-11-18",
+    "time": "FURIA",
+    "oponente": "eUnited",
+    "evento": "ESL Pro League Season 10 Americas",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 18 de Novembro o time da FURIA enfrentou eUnited no evento ESL Pro League Season 10 Americas, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-11-17",
+    "time": "FURIA",
+    "oponente": "Isurus",
+    "evento": "ESL Pro League Season 10 Americas",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 17 de Novembro o time da FURIA enfrentou Isurus no evento ESL Pro League Season 10 Americas, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-27",
+    "time": "FURIA",
+    "oponente": "fnatic",
+    "evento": "StarSeries i-League Season 8",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 27 de Outubro o time da FURIA enfrentou fnatic no evento StarSeries i-League Season 8, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-26",
+    "time": "FURIA",
+    "oponente": "Renegades",
+    "evento": "StarSeries i-League Season 8",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Outubro o time da FURIA enfrentou Renegades no evento StarSeries i-League Season 8, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-26",
+    "time": "FURIA",
+    "oponente": "G2",
+    "evento": "StarSeries i-League Season 8",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Outubro o time da FURIA enfrentou G2 no evento StarSeries i-League Season 8, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-25",
+    "time": "FURIA",
+    "oponente": "Vitality",
+    "evento": "StarSeries i-League Season 8",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 25 de Outubro o time da FURIA enfrentou Vitality no evento StarSeries i-League Season 8, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-24",
+    "time": "FURIA",
+    "oponente": "Evil Geniuses",
+    "evento": "StarSeries i-League Season 8",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 24 de Outubro o time da FURIA enfrentou Evil Geniuses no evento StarSeries i-League Season 8, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-23",
+    "time": "FURIA",
+    "oponente": "AVANGAR",
+    "evento": "StarSeries i-League Season 8",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 23 de Outubro o time da FURIA enfrentou AVANGAR no evento StarSeries i-League Season 8, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-23",
+    "time": "FURIA",
+    "oponente": "5POWER",
+    "evento": "StarSeries i-League Season 8",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 23 de Outubro o time da FURIA enfrentou 5POWER no evento StarSeries i-League Season 8, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-22",
+    "time": "FURIA",
+    "oponente": "Ninjas in Pyjamas",
+    "evento": "StarSeries i-League Season 8",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 22 de Outubro o time da FURIA enfrentou Ninjas in Pyjamas no evento StarSeries i-League Season 8, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-16",
+    "time": "FURIA",
+    "oponente": "Cloud9",
+    "evento": "ECS Season 8 North America Week 3",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 16 de Outubro o time da FURIA enfrentou Cloud9 no evento ECS Season 8 North America Week 3, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-15",
+    "time": "FURIA",
+    "oponente": "Riot Squad",
+    "evento": "ECS Season 8 North America Week 3",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 15 de Outubro o time da FURIA enfrentou Riot Squad no evento ECS Season 8 North America Week 3, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-11",
+    "time": "FURIA",
+    "oponente": "MIBR",
+    "evento": "ESL Pro League Season 10 Americas",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 11 de Outubro o time da FURIA enfrentou MIBR no evento ESL Pro League Season 10 Americas, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-10",
+    "time": "FURIA",
+    "oponente": "Envy",
+    "evento": "ESL Pro League Season 10 Americas",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 10 de Outubro o time da FURIA enfrentou Envy no evento ESL Pro League Season 10 Americas, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-09",
+    "time": "FURIA",
+    "oponente": "Swole Patrol",
+    "evento": "ESL Pro League Season 10 Americas",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 9 de Outubro o time da FURIA enfrentou Swole Patrol no evento ESL Pro League Season 10 Americas, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-03",
+    "time": "FURIA",
+    "oponente": "fnatic",
+    "evento": "DreamHack Masters Malmö 2019",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 3 de Outubro o time da FURIA enfrentou fnatic no evento DreamHack Masters Malmö 2019, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-02",
+    "time": "FURIA",
+    "oponente": "ENCE",
+    "evento": "DreamHack Masters Malmö 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Outubro o time da FURIA enfrentou ENCE no evento DreamHack Masters Malmö 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-01",
+    "time": "FURIA",
+    "oponente": "Envy",
+    "evento": "DreamHack Masters Malmö 2019",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 1 de Outubro o time da FURIA enfrentou Envy no evento DreamHack Masters Malmö 2019, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-10-01",
+    "time": "FURIA",
+    "oponente": "G2",
+    "evento": "DreamHack Masters Malmö 2019",
+    "resultado": "14 - 16",
+    "bo": "bo3",
+    "descricao": "No dia 1 de Outubro o time da FURIA enfrentou G2 no evento DreamHack Masters Malmö 2019, e o resultado foi 14 - 16, a partida foi jogada no mapa trn. No dia 21 de Setembro o time da FURIA enfrentou Sprout no evento Games Clash Masters 2019, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-09-20",
+    "time": "FURIA",
+    "oponente": "BIG",
+    "evento": "Games Clash Masters 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Setembro o time da FURIA enfrentou BIG no evento Games Clash Masters 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-09-20",
+    "time": "FURIA",
+    "oponente": "Illuminar",
+    "evento": "Games Clash Masters 2019",
+    "resultado": "14 - 16",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Setembro o time da FURIA enfrentou Illuminar no evento Games Clash Masters 2019, e o resultado foi 14 - 16, a partida foi jogada no mapa vtg. No dia 20 de Setembro o time da FURIA enfrentou BIG no evento Games Clash Masters 2019, e o resultado foi 16 - 7, a partida foi jogada no mapa ovp. No dia 14 de Setembro o time da FURIA enfrentou CR4ZY no evento Arctic Invitational, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-09-14",
+    "time": "FURIA",
+    "oponente": "Cloud9",
+    "evento": "Arctic Invitational",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 14 de Setembro o time da FURIA enfrentou Cloud9 no evento Arctic Invitational, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-08-25",
+    "time": "FURIA",
+    "oponente": "Syman",
+    "evento": "StarLadder Major 2019 Challengers Stage",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 25 de Agosto o time da FURIA enfrentou Syman no evento StarLadder Major 2019 Challengers Stage, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-08-24",
+    "time": "FURIA",
+    "oponente": "FORZE",
+    "evento": "StarLadder Major 2019 Challengers Stage",
+    "resultado": "10 - 16",
+    "bo": "bo5",
+    "descricao": "No dia 24 de Agosto o time da FURIA enfrentou FORZE no evento StarLadder Major 2019 Challengers Stage, e o resultado foi 10 - 16, a partida foi jogada no mapa nuke. No dia 24 de Agosto o time da FURIA enfrentou CR4ZY no evento StarLadder Major 2019 Challengers Stage, e o resultado foi 11 - 16, a partida foi jogada no mapa trn. No dia 23 de Agosto o time da FURIA enfrentou HellRaisers no evento StarLadder Major 2019 Challengers Stage, e o resultado foi 16 - 6, a partida foi jogada no mapa inf. No dia 26 de Julho o time da FURIA enfrentou AVANGAR no evento EMF CS:GO World Invitational 2019, e o resultado foi 3 - 1, foi uma serie bo5. No dia 21 de Julho o time da FURIA enfrentou INTZ no evento Americas Minor - StarLadder Major 2019, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-07-20",
+    "time": "FURIA",
+    "oponente": "Sharks",
+    "evento": "Americas Minor - StarLadder Major 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Julho o time da FURIA enfrentou Sharks no evento Americas Minor - StarLadder Major 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-07-19",
+    "time": "FURIA",
+    "oponente": "NRG",
+    "evento": "Americas Minor - StarLadder Major 2019",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Julho o time da FURIA enfrentou NRG no evento Americas Minor - StarLadder Major 2019, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-07-18",
+    "time": "FURIA",
+    "oponente": "Luminosity",
+    "evento": "Americas Minor - StarLadder Major 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 18 de Julho o time da FURIA enfrentou Luminosity no evento Americas Minor - StarLadder Major 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-07-18",
+    "time": "FURIA",
+    "oponente": "eUnited",
+    "evento": "Americas Minor - StarLadder Major 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 18 de Julho o time da FURIA enfrentou eUnited no evento Americas Minor - StarLadder Major 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-07-17",
+    "time": "FURIA",
+    "oponente": "INTZ",
+    "evento": "Americas Minor - StarLadder Major 2019",
+    "resultado": "13 - 16",
+    "bo": "bo3",
+    "descricao": "No dia 17 de Julho o time da FURIA enfrentou INTZ no evento Americas Minor - StarLadder Major 2019, e o resultado foi 13 - 16, a partida foi jogada no mapa ovp. No dia 15 de Julho o time da FURIA enfrentou Spirit no evento ESEA Season 31 Global Challenge, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-07-14",
+    "time": "FURIA",
+    "oponente": "Vitality",
+    "evento": "ESEA Season 31 Global Challenge",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 14 de Julho o time da FURIA enfrentou Vitality no evento ESEA Season 31 Global Challenge, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-07-14",
+    "time": "FURIA",
+    "oponente": "Chiefs",
+    "evento": "ESEA Season 31 Global Challenge",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 14 de Julho o time da FURIA enfrentou Chiefs no evento ESEA Season 31 Global Challenge, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-07-13",
+    "time": "FURIA",
+    "oponente": "Sprout",
+    "evento": "ESEA Season 31 Global Challenge",
+    "resultado": "8 - 16",
+    "bo": "bo3",
+    "descricao": "No dia 13 de Julho o time da FURIA enfrentou Sprout no evento ESEA Season 31 Global Challenge, e o resultado foi 8 - 16, a partida foi jogada no mapa inf. No dia 13 de Julho o time da FURIA enfrentou Chiefs no evento ESEA Season 31 Global Challenge, e o resultado foi 16 - 6, a partida foi jogada no mapa nuke. No dia 13 de Julho o time da FURIA enfrentou Singularity no evento ESEA MDL Season 31 North America Finals, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-07-03",
+    "time": "FURIA",
+    "oponente": "Natus Vincere",
+    "evento": "ESL One Cologne 2019",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 3 de Julho o time da FURIA enfrentou Natus Vincere no evento ESL One Cologne 2019, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-07-02",
+    "time": "FURIA",
+    "oponente": "Renegades",
+    "evento": "ESL One Cologne 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Julho o time da FURIA enfrentou Renegades no evento ESL One Cologne 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-07-02",
+    "time": "FURIA",
+    "oponente": "NRG",
+    "evento": "ESL One Cologne 2019",
+    "resultado": "7 - 16",
+    "bo": "bo3",
+    "descricao": "No dia 2 de Julho o time da FURIA enfrentou NRG no evento ESL One Cologne 2019, e o resultado foi 7 - 16, a partida foi jogada no mapa nuke. No dia 28 de Junho o time da FURIA enfrentou eUnited no evento ESL One New York 2019 North America Closed Qualifier, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-06-28",
+    "time": "FURIA",
+    "oponente": "Lazarus",
+    "evento": "ESL One New York 2019 North America Closed Qualifier",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 28 de Junho o time da FURIA enfrentou Lazarus no evento ESL One New York 2019 North America Closed Qualifier, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-06-27",
+    "time": "FURIA",
+    "oponente": "TeamOne",
+    "evento": "ESL One New York 2019 North America Closed Qualifier",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 27 de Junho o time da FURIA enfrentou TeamOne no evento ESL One New York 2019 North America Closed Qualifier, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-06-21",
+    "time": "FURIA",
+    "oponente": "Party Astronauts",
+    "evento": "ESEA MDL Season 31 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 21 de Junho o time da FURIA enfrentou Party Astronauts no evento ESEA MDL Season 31 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-06-20",
+    "time": "FURIA",
+    "oponente": "TeamOne",
+    "evento": "ESEA MDL Season 31 North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Junho o time da FURIA enfrentou TeamOne no evento ESEA MDL Season 31 North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-06-16",
+    "time": "FURIA",
+    "oponente": "GamerLegion",
+    "evento": "Moche XL Esports 2019",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 16 de Junho o time da FURIA enfrentou GamerLegion no evento Moche XL Esports 2019, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-06-14",
+    "time": "FURIA",
+    "oponente": "TeamOne",
+    "evento": "Americas Minor North America Closed Qualifier - StarLadder Major 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 14 de Junho o time da FURIA enfrentou TeamOne no evento Americas Minor North America Closed Qualifier - StarLadder Major 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-06-12",
+    "time": "FURIA",
+    "oponente": "Peeker's Advantage",
+    "evento": "Americas Minor North America Closed Qualifier - StarLadder Major 2019",
+    "resultado": "1 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 12 de Junho o time da FURIA enfrentou Peeker's Advantage no evento Americas Minor North America Closed Qualifier - StarLadder Major 2019, e o resultado foi 1 - 0, a partida foi jogada no mapa def. No dia 12 de Junho o time da FURIA enfrentou Prospects no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 1, a partida foi jogada no mapa nuke. No dia 12 de Junho o time da FURIA enfrentou Party Astronauts no evento ESEA MDL Season 31 North America, e o resultado foi 8 - 16, a partida foi jogada no mapa ovp. No dia 9 de Junho o time da FURIA enfrentou Vitality no evento ECS Season 7 Finals, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-06-08",
+    "time": "FURIA",
+    "oponente": "North",
+    "evento": "ECS Season 7 Finals",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Junho o time da FURIA enfrentou North no evento ECS Season 7 Finals, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-06-07",
+    "time": "FURIA",
+    "oponente": "Astralis",
+    "evento": "ECS Season 7 Finals",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 7 de Junho o time da FURIA enfrentou Astralis no evento ECS Season 7 Finals, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-06-06",
+    "time": "FURIA",
+    "oponente": "NRG",
+    "evento": "ECS Season 7 Finals",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 6 de Junho o time da FURIA enfrentou NRG no evento ECS Season 7 Finals, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-06-06",
+    "time": "FURIA",
+    "oponente": "Astralis",
+    "evento": "ECS Season 7 Finals",
+    "resultado": "16 - 14",
+    "bo": "bo3",
+    "descricao": "No dia 6 de Junho o time da FURIA enfrentou Astralis no evento ECS Season 7 Finals, e o resultado foi 16 - 14, a partida foi jogada no mapa nuke. No dia 1 de Junho o time da FURIA enfrentou Liquid no evento DreamHack Masters Dallas 2019, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-05-31",
+    "time": "FURIA",
+    "oponente": "Vitality",
+    "evento": "DreamHack Masters Dallas 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 31 de Maio o time da FURIA enfrentou Vitality no evento DreamHack Masters Dallas 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-05-31",
+    "time": "FURIA",
+    "oponente": "ENCE",
+    "evento": "DreamHack Masters Dallas 2019",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 31 de Maio o time da FURIA enfrentou ENCE no evento DreamHack Masters Dallas 2019, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-05-30",
+    "time": "FURIA",
+    "oponente": "fnatic",
+    "evento": "DreamHack Masters Dallas 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 30 de Maio o time da FURIA enfrentou fnatic no evento DreamHack Masters Dallas 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-05-28",
+    "time": "FURIA",
+    "oponente": "NRG",
+    "evento": "DreamHack Masters Dallas 2019",
+    "resultado": "16 - 7",
+    "bo": "bo5",
+    "descricao": "No dia 28 de Maio o time da FURIA enfrentou NRG no evento DreamHack Masters Dallas 2019, e o resultado foi 16 - 7, a partida foi jogada no mapa ovp. No dia 26 de Maio o time da FURIA enfrentou The Quest no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 13, a partida foi jogada no mapa nuke. No dia 25 de Maio o time da FURIA enfrentou Bushido Boyz no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 11, a partida foi jogada no mapa nuke. No dia 25 de Maio o time da FURIA enfrentou Singularity no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 12, a partida foi jogada no mapa nuke. No dia 24 de Maio o time da FURIA enfrentou BLITZKRIEG no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 4, a partida foi jogada no mapa ovp. No dia 24 de Maio o time da FURIA enfrentou Thunder Logic no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 5, a partida foi jogada no mapa ovp. No dia 24 de Maio o time da FURIA enfrentou Bad News Bears no evento ESEA MDL Season 31 North America, e o resultado foi 7 - 16, a partida foi jogada no mapa mrg. No dia 23 de Maio o time da FURIA enfrentou Mythic no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 8, a partida foi jogada no mapa ovp. No dia 23 de Maio o time da FURIA enfrentou Rugratz no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 6, a partida foi jogada no mapa ovp. No dia 22 de Maio o time da FURIA enfrentou Ascent no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 6, a partida foi jogada no mapa nuke. No dia 22 de Maio o time da FURIA enfrentou Variance no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 8, a partida foi jogada no mapa mrg. No dia 21 de Maio o time da FURIA enfrentou ATK no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 13, a partida foi jogada no mapa vtg. No dia 21 de Maio o time da FURIA enfrentou Chris and the boys no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 1, a partida foi jogada no mapa ovp. No dia 12 de Maio o time da FURIA enfrentou Ghost no evento ESL One Cologne 2019 North America Closed Qualifier, e o resultado foi 3 - 2, foi uma serie bo5. No dia 11 de Maio o time da FURIA enfrentou Lazarus no evento ESL One Cologne 2019 North America Closed Qualifier, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-05-11",
+    "time": "FURIA",
+    "oponente": "Complexity",
+    "evento": "ESL One Cologne 2019 North America Closed Qualifier",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 11 de Maio o time da FURIA enfrentou Complexity no evento ESL One Cologne 2019 North America Closed Qualifier, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-05-10",
+    "time": "FURIA",
+    "oponente": "Envy",
+    "evento": "ESL One Cologne 2019 North America Closed Qualifier",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 10 de Maio o time da FURIA enfrentou Envy no evento ESL One Cologne 2019 North America Closed Qualifier, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-05-10",
+    "time": "FURIA",
+    "oponente": "Bad News Bears",
+    "evento": "ESL One Cologne 2019 North America Closed Qualifier",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 10 de Maio o time da FURIA enfrentou Bad News Bears no evento ESL One Cologne 2019 North America Closed Qualifier, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-05-10",
+    "time": "FURIA",
+    "oponente": "Lazarus",
+    "evento": "ESL One Cologne 2019 North America Closed Qualifier",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 10 de Maio o time da FURIA enfrentou Lazarus no evento ESL One Cologne 2019 North America Closed Qualifier, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-05-08",
+    "time": "FURIA",
+    "oponente": "New Identity",
+    "evento": "ESEA MDL Season 31 North America",
+    "resultado": "11 - 16",
+    "bo": "bo3",
+    "descricao": "No dia 8 de Maio o time da FURIA enfrentou New Identity no evento ESEA MDL Season 31 North America, e o resultado foi 11 - 16, a partida foi jogada no mapa inf. No dia 4 de Maio o time da FURIA enfrentou Peeker's Advantage no evento ESEA MDL Season 31 North America, e o resultado foi 16 - 7, a partida foi jogada no mapa vtg. No dia 3 de Maio o time da FURIA enfrentou TeamOne no evento ESEA MDL Season 31 North America, e o resultado foi 12 - 16, a partida foi jogada no mapa inf. No dia 29 de Abril o time da FURIA enfrentou INTZ no evento ECS Season 7 North America Week 3, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-04-27",
+    "time": "FURIA",
+    "oponente": "Luminosity",
+    "evento": "ECS Season 7 North America Week 3",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 27 de Abril o time da FURIA enfrentou Luminosity no evento ECS Season 7 North America Week 3, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-04-26",
+    "time": "FURIA",
+    "oponente": "Spacestation",
+    "evento": "ECS Season 7 North America Week 3",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 26 de Abril o time da FURIA enfrentou Spacestation no evento ECS Season 7 North America Week 3, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-04-25",
+    "time": "FURIA",
+    "oponente": "Luminosity",
+    "evento": "ESL One Cologne 2019 North America Open Qualifier 2",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 25 de Abril o time da FURIA enfrentou Luminosity no evento ESL One Cologne 2019 North America Open Qualifier 2, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-04-24",
+    "time": "FURIA",
+    "oponente": "Variance",
+    "evento": "ESL One Cologne 2019 North America Open Qualifier 2",
+    "resultado": "16 - 9",
+    "bo": "bo3",
+    "descricao": "No dia 24 de Abril o time da FURIA enfrentou Variance no evento ESL One Cologne 2019 North America Open Qualifier 2, e o resultado foi 16 - 9, a partida foi jogada no mapa ovp. No dia 22 de Abril o time da FURIA enfrentou AVANGAR no evento DreamHack Open Rio 2019, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-04-21",
+    "time": "FURIA",
+    "oponente": "Sharks",
+    "evento": "DreamHack Open Rio 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 21 de Abril o time da FURIA enfrentou Sharks no evento DreamHack Open Rio 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-04-20",
+    "time": "FURIA",
+    "oponente": "INTZ",
+    "evento": "DreamHack Open Rio 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Abril o time da FURIA enfrentou INTZ no evento DreamHack Open Rio 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-04-20",
+    "time": "FURIA",
+    "oponente": "eUnited",
+    "evento": "DreamHack Open Rio 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Abril o time da FURIA enfrentou eUnited no evento DreamHack Open Rio 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-04-20",
+    "time": "FURIA",
+    "oponente": "INTZ",
+    "evento": "DreamHack Open Rio 2019",
+    "resultado": "11 - 16",
+    "bo": "bo3",
+    "descricao": "No dia 20 de Abril o time da FURIA enfrentou INTZ no evento DreamHack Open Rio 2019, e o resultado foi 11 - 16, a partida foi jogada no mapa mrg. No dia 2 de Abril o time da FURIA enfrentou Bad News Bears no evento ESEA MDL Season 30 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-29",
+    "time": "FURIA",
+    "oponente": "Singularity",
+    "evento": "ESEA MDL Season 30 North America",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 29 de Março o time da FURIA enfrentou Singularity no evento ESEA MDL Season 30 North America, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-27",
+    "time": "FURIA",
+    "oponente": "TeamOne",
+    "evento": "ESEA MDL Season 30 North America",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 27 de Março o time da FURIA enfrentou TeamOne no evento ESEA MDL Season 30 North America, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-25",
+    "time": "FURIA",
+    "oponente": "eUnited",
+    "evento": "DreamHack Masters Dallas 2019 North America Closed Qualifier",
+    "resultado": "3 - 0",
+    "bo": "bo5",
+    "descricao": "No dia 25 de Março o time da FURIA enfrentou eUnited no evento DreamHack Masters Dallas 2019 North America Closed Qualifier, e o resultado foi 3 - 0, foi uma serie bo5. No dia 24 de Março o time da FURIA enfrentou eUnited no evento DreamHack Masters Dallas 2019 North America Closed Qualifier, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-23",
+    "time": "FURIA",
+    "oponente": "Complexity",
+    "evento": "DreamHack Masters Dallas 2019 North America Closed Qualifier",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 23 de Março o time da FURIA enfrentou Complexity no evento DreamHack Masters Dallas 2019 North America Closed Qualifier, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-22",
+    "time": "FURIA",
+    "oponente": "Luminosity",
+    "evento": "DreamHack Masters Dallas 2019 North America Closed Qualifier",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 22 de Março o time da FURIA enfrentou Luminosity no evento DreamHack Masters Dallas 2019 North America Closed Qualifier, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-22",
+    "time": "FURIA",
+    "oponente": "NRG",
+    "evento": "ECS Season 7 North America Week 2",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 22 de Março o time da FURIA enfrentou NRG no evento ECS Season 7 North America Week 2, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-21",
+    "time": "FURIA",
+    "oponente": "Complexity",
+    "evento": "ECS Season 7 North America Week 2",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 21 de Março o time da FURIA enfrentou Complexity no evento ECS Season 7 North America Week 2, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-19",
+    "time": "FURIA",
+    "oponente": "Luminosity",
+    "evento": "ECS Season 7 North America Week 2",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 19 de Março o time da FURIA enfrentou Luminosity no evento ECS Season 7 North America Week 2, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-16",
+    "time": "FURIA",
+    "oponente": "Old Guys Club",
+    "evento": "ESEA MDL Season 30 North America",
+    "resultado": "16 - 9",
+    "bo": "bo3",
+    "descricao": "No dia 16 de Março o time da FURIA enfrentou Old Guys Club no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 9, a partida foi jogada no mapa ovp. No dia 15 de Março o time da FURIA enfrentou Bad News Bears no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 5, a partida foi jogada no mapa ovp. No dia 14 de Março o time da FURIA enfrentou Final Feature no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 13, a partida foi jogada no mapa mrg. No dia 14 de Março o time da FURIA enfrentou Mythic no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 7, a partida foi jogada no mapa ovp. No dia 13 de Março o time da FURIA enfrentou Infamous no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 7, a partida foi jogada no mapa trn. No dia 13 de Março o time da FURIA enfrentou TeamOne no evento ESEA MDL Season 30 North America, e o resultado foi 19 - 15, a partida foi jogada no mapa trn. No dia 12 de Março o time da FURIA enfrentou MASSIVEimpact no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 6, a partida foi jogada no mapa ovp. No dia 10 de Março o time da FURIA enfrentou iNTACT no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 6, a partida foi jogada no mapa nuke. No dia 9 de Março o time da FURIA enfrentou Luminosity no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 4, a partida foi jogada no mapa ovp. No dia 8 de Março o time da FURIA enfrentou The Quest no evento ECS Season 7 North America Pinnacle Cup, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-07",
+    "time": "FURIA",
+    "oponente": "Singularity",
+    "evento": "ECS Season 7 North America Pinnacle Cup",
+    "resultado": "1 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 7 de Março o time da FURIA enfrentou Singularity no evento ECS Season 7 North America Pinnacle Cup, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-07",
+    "time": "FURIA",
+    "oponente": "TeamOne",
+    "evento": "ECS Season 7 North America Pinnacle Cup",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 7 de Março o time da FURIA enfrentou TeamOne no evento ECS Season 7 North America Pinnacle Cup, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-06",
+    "time": "FURIA",
+    "oponente": "The Fundamentals",
+    "evento": "ESEA MDL Season 30 North America",
+    "resultado": "16 - 10",
+    "bo": "bo3",
+    "descricao": "No dia 6 de Março o time da FURIA enfrentou The Fundamentals no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 10, a partida foi jogada no mapa cch. No dia 6 de Março o time da FURIA enfrentou Final Feature no evento ECS Season 7 North America Pinnacle Cup, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-03-05",
+    "time": "FURIA",
+    "oponente": "Singularity",
+    "evento": "ESEA MDL Season 30 North America",
+    "resultado": "19 - 15",
+    "bo": "bo3",
+    "descricao": "No dia 5 de Março o time da FURIA enfrentou Singularity no evento ESEA MDL Season 30 North America, e o resultado foi 19 - 15, a partida foi jogada no mapa ovp. No dia 2 de Março o time da FURIA enfrentou Spacestation no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 2, a partida foi jogada no mapa inf. No dia 27 de Fevereiro o time da FURIA enfrentou Party Astronauts no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 9, a partida foi jogada no mapa mrg. No dia 26 de Fevereiro o time da FURIA enfrentou Denial no evento ESEA MDL Season 30 North America, e o resultado foi 16 - 2, a partida foi jogada no mapa nuke. No dia 16 de Fevereiro o time da FURIA enfrentou Cloud9 no evento IEM Katowice 2019 Challengers Stage, e o resultado foi 1 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-02-14",
+    "time": "FURIA",
+    "oponente": "Spirit",
+    "evento": "IEM Katowice 2019 Challengers Stage",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 14 de Fevereiro o time da FURIA enfrentou Spirit no evento IEM Katowice 2019 Challengers Stage, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-02-13",
+    "time": "FURIA",
+    "oponente": "AVANGAR",
+    "evento": "IEM Katowice 2019 Challengers Stage",
+    "resultado": "14 - 16",
+    "bo": "bo3",
+    "descricao": "No dia 13 de Fevereiro o time da FURIA enfrentou AVANGAR no evento IEM Katowice 2019 Challengers Stage, e o resultado foi 14 - 16, a partida foi jogada no mapa mrg. No dia 13 de Fevereiro o time da FURIA enfrentou Ninjas in Pyjamas no evento IEM Katowice 2019 Challengers Stage, e o resultado foi 6 - 16, a partida foi jogada no mapa mrg. No dia 2 de Fevereiro o time da FURIA enfrentou HellRaisers no evento WePlay! Lock and Load, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-02-01",
+    "time": "FURIA",
+    "oponente": "Winstrike",
+    "evento": "WePlay! Lock and Load",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 1 de Fevereiro o time da FURIA enfrentou Winstrike no evento WePlay! Lock and Load, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-01-31",
+    "time": "FURIA",
+    "oponente": "HEROIC",
+    "evento": "WePlay! Lock and Load",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 31 de Janeiro o time da FURIA enfrentou HEROIC no evento WePlay! Lock and Load, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-01-30",
+    "time": "FURIA",
+    "oponente": "Spirit",
+    "evento": "WePlay! Lock and Load",
+    "resultado": "17 - 19",
+    "bo": "bo3",
+    "descricao": "No dia 30 de Janeiro o time da FURIA enfrentou Spirit no evento WePlay! Lock and Load, e o resultado foi 17 - 19, a partida foi jogada no mapa ovp. No dia 26 de Janeiro o time da FURIA enfrentou Envy no evento Americas Minor - IEM Katowice 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  },
+  {
+    "data": "2019-01-25",
+    "time": "FURIA",
+    "oponente": "NRG",
+    "evento": "Americas Minor - IEM Katowice 2019",
+    "resultado": "0 - 2",
+    "bo": "bo3",
+    "descricao": "No dia 25 de Janeiro o time da FURIA enfrentou NRG no evento Americas Minor - IEM Katowice 2019, e o resultado foi 0 - 2, foi uma serie bo3"
+  },
+  {
+    "data": "2019-01-24",
+    "time": "FURIA",
+    "oponente": "INTZ",
+    "evento": "Americas Minor - IEM Katowice 2019",
+    "resultado": "2 - 1",
+    "bo": "bo3",
+    "descricao": "No dia 24 de Janeiro o time da FURIA enfrentou INTZ no evento Americas Minor - IEM Katowice 2019, e o resultado foi 2 - 1, foi uma serie bo3"
+  },
+  {
+    "data": "2019-01-22",
+    "time": "FURIA",
+    "oponente": "Envy",
+    "evento": "Americas Minor - IEM Katowice 2019",
+    "resultado": "2 - 0",
+    "bo": "bo3",
+    "descricao": "No dia 22 de Janeiro o time da FURIA enfrentou Envy no evento Americas Minor - IEM Katowice 2019, e o resultado foi 2 - 0, foi uma serie bo3"
+  }
+]

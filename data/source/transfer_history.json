@@ -1,54 +1,376 @@
-{
-  "transferencias": [
-    "Na data 22 de Abril de 2025 YEKINDAR se transfere da Liquid para FURIA",
-    "Na data 22 de Abril de 2025 skullz é movido para o banco da FURIA",
-    "Na data 11 de Abril de 2025 molodoy se transfere da AMKAL para FURIA",
-    "Na data 11 de Abril de 2025 chelo é movido para o banco da FURIA",
-    "Na data 13 de Agosto de 2024 kye se transfere da FURIA para Fluxo",
-    "Na data 9 de Julho de 2024 sidde se junta a FURIA as coach",
-    "Na data 9 de Julho de 2024 skullz se transfere da Liquid para FURIA",
-    "Na data 9 de Julho de 2024 guerri sai da FURIA",
-    "Na data 11 de Junho de 2024 kye é movido para o banco da FURIA",
-    "Na data 9 de Maio de 2024 arT se transfere da FURIA para Fluxo",
-    "Na data 18 de Abril de 2024 kye se transfere da FURIA Academy para FURIA",
-    "Na data 16 de Abril de 2024 arT é movido para o banco da FURIA",
-    "Na data 3 de Julho de 2023 FalleN se transfere da Imperial para FURIA",
-    "Na data 3 de Julho de 2023 chelo se transfere da Imperial para FURIA",
-    "Na data 30 de Junho de 2023 saffee se transfere da FURIA para MIBR",
-    "Na data 30 de Junho de 2023 drop se transfere da FURIA para MIBR",
-    "Na data 29 de Junho de 2023 saffee é movido para o banco da FURIA",
-    "Na data 27 de Junho de 2023 drop é movido para o banco da FURIA",
-    "Na data 18 de Janeiro de 2022 junior se transfere da FURIA para Complexity",
-    "Na data 15 de Janeiro de 2022 VINI se transfere da FURIA para Last Dance",
-    "Na data 6 de Janeiro de 2022 saffee se transfere da paiN para FURIA",
-    "Na data 5 de Janeiro de 2022 junior se transfere da Bad News Bears para FURIA (benched)",
-    "Na data 25 de Novembro de 2021 VINI é movido para o banco da FURIA",
-    "Na data 23 de Agosto de 2021 drop se transfere da FURIA Academy para FURIA",
-    "Na data 23 de Agosto de 2021 honda se transfere da FURIA para FURIA Academy",
-    "Na data 4 de Agosto de 2021 junior se transfere da FURIA para Bad News Bears",
-    "Na data 3 de Junho de 2021 junior é movido para o banco da FURIA",
-    "Na data 3 de Junho de 2021 honda é movido para a equipe principal da FURIA",
-    "Na data 14 de Janeiro de 2021 honda se transfere da FURIA Academy para FURIA as substitute",
-    "Na data 13 de Janeiro de 2021 junior se transfere da Triumph para FURIA",
-    "Na data 8 de Janeiro de 2021 HEN1 sai da FURIA",
-    "Na data 24 de Setembro de 2019 ableJ sai da FURIA",
-    "Na data 23 de Setembro de 2019 HEN1 se junta a FURIA",
-    "Na data 2 de Outubro de 2018 ableJ se transfere da FURIA Academy para FURIA",
-    "Na data 2 de Outubro de 2018 spacca sai da FURIA",
-    "Na data 21 de Fevereiro de 2018 KSCERATO se junta a FURIA",
-    "Na data 6 de Fevereiro de 2018 arT se transfere da INTZ para FURIA",
-    "Na data 5 de Fevereiro de 2018 bld se transfere da FURIA para Yeah",
-    "Na data 5 de Fevereiro de 2018 s1 sai da FURIA",
-    "Na data 2 de Fevereiro de 2018 guerri é movido para coach on FURIA",
-    "Na data 17 de Janeiro de 2018 s1 se junta a FURIA",
-    "Na data 9 de Novembro de 2017 prd sai da FURIA",
-    "Na data 8 de Novembro de 2017 yuurih se transfere da INTZ para FURIA",
-    "Na data 7 de Outubro de 2017 bld se transfere da Merciless para FURIA",
-    "Na data 2 de Outubro de 2017 caike sai da FURIA",
-    "Na data 10 de Agosto de 2017 spacca se junta a FURIA",
-    "Na data 10 de Agosto de 2017 prd se junta a FURIA",
-    "Na data 10 de Agosto de 2017 guerri se junta a FURIA",
-    "Na data 10 de Agosto de 2017 caike se junta a FURIA",
-    "Na data 10 de Agosto de 2017 VINI se junta a FURIA"
-  ]
-}
+[
+  {
+    "data": "2025-04-22",
+    "jogador": "YEKINDAR",
+    "acao": "transferencia",
+    "origem": "Liquid",
+    "destino": "FURIA",
+    "descricao": "Na data 22 de Abril de 2025 YEKINDAR se transfere da Liquid para FURIA."
+  },
+  {
+    "data": "2025-04-22",
+    "jogador": "skullz",
+    "acao": "banco",
+    "destino": "banco da FURIA",
+    "descricao": "Na data 22 de Abril de 2025 skullz é movido para o banco da FURIA."
+  },
+  {
+    "data": "2025-04-11",
+    "jogador": "molodoy",
+    "acao": "transferencia",
+    "origem": "AMKAL",
+    "destino": "FURIA",
+    "descricao": "Na data 11 de Abril de 2025 molodoy se transfere da AMKAL para FURIA."
+  },
+  {
+    "data": "2025-04-11",
+    "jogador": "chelo",
+    "acao": "banco",
+    "destino": "banco da FURIA",
+    "descricao": "Na data 11 de Abril de 2025 chelo é movido para o banco da FURIA."
+  },
+  {
+    "data": "2024-08-13",
+    "jogador": "kye",
+    "acao": "transferencia",
+    "origem": "FURIA",
+    "destino": "Fluxo",
+    "descricao": "Na data 13 de Agosto de 2024 kye se transfere da FURIA para Fluxo."
+  },
+  {
+    "data": "2024-07-09",
+    "jogador": "sidde",
+    "acao": "entrada",
+    "destino": "FURIA as coach",
+    "descricao": "Na data 9 de Julho de 2024 sidde se junta a FURIA as coach."
+  },
+  {
+    "data": "2024-07-09",
+    "jogador": "skullz",
+    "acao": "transferencia",
+    "origem": "Liquid",
+    "destino": "FURIA",
+    "descricao": "Na data 9 de Julho de 2024 skullz se transfere da Liquid para FURIA."
+  },
+  {
+    "data": "2024-07-09",
+    "jogador": "guerri",
+    "acao": "saida",
+    "origem": "FURIA",
+    "descricao": "Na data 9 de Julho de 2024 guerri sai da FURIA."
+  },
+  {
+    "data": "2024-06-11",
+    "jogador": "kye",
+    "acao": "banco",
+    "destino": "banco da FURIA",
+    "descricao": "Na data 11 de Junho de 2024 kye é movido para o banco da FURIA."
+  },
+  {
+    "data": "2024-05-09",
+    "jogador": "arT",
+    "acao": "transferencia",
+    "origem": "FURIA",
+    "destino": "Fluxo",
+    "descricao": "Na data 9 de Maio de 2024 arT se transfere da FURIA para Fluxo."
+  },
+  {
+    "data": "2024-04-18",
+    "jogador": "kye",
+    "acao": "transferencia",
+    "origem": "FURIA Academy",
+    "destino": "FURIA",
+    "descricao": "Na data 18 de Abril de 2024 kye se transfere da FURIA Academy para FURIA."
+  },
+  {
+    "data": "2024-04-16",
+    "jogador": "arT",
+    "acao": "banco",
+    "destino": "banco da FURIA",
+    "descricao": "Na data 16 de Abril de 2024 arT é movido para o banco da FURIA."
+  },
+  {
+    "data": "2023-07-03",
+    "jogador": "FalleN",
+    "acao": "transferencia",
+    "origem": "Imperial",
+    "destino": "FURIA",
+    "descricao": "Na data 3 de Julho de 2023 FalleN se transfere da Imperial para FURIA."
+  },
+  {
+    "data": "2023-07-03",
+    "jogador": "chelo",
+    "acao": "transferencia",
+    "origem": "Imperial",
+    "destino": "FURIA",
+    "descricao": "Na data 3 de Julho de 2023 chelo se transfere da Imperial para FURIA."
+  },
+  {
+    "data": "2023-06-30",
+    "jogador": "saffee",
+    "acao": "transferencia",
+    "origem": "FURIA",
+    "destino": "MIBR",
+    "descricao": "Na data 30 de Junho de 2023 saffee se transfere da FURIA para MIBR."
+  },
+  {
+    "data": "2023-06-30",
+    "jogador": "drop",
+    "acao": "transferencia",
+    "origem": "FURIA",
+    "destino": "MIBR",
+    "descricao": "Na data 30 de Junho de 2023 drop se transfere da FURIA para MIBR."
+  },
+  {
+    "data": "2023-06-29",
+    "jogador": "saffee",
+    "acao": "banco",
+    "destino": "banco da FURIA",
+    "descricao": "Na data 29 de Junho de 2023 saffee é movido para o banco da FURIA."
+  },
+  {
+    "data": "2023-06-27",
+    "jogador": "drop",
+    "acao": "banco",
+    "destino": "banco da FURIA",
+    "descricao": "Na data 27 de Junho de 2023 drop é movido para o banco da FURIA."
+  },
+  {
+    "data": "2022-01-18",
+    "jogador": "junior",
+    "acao": "transferencia",
+    "origem": "FURIA",
+    "destino": "Complexity",
+    "descricao": "Na data 18 de Janeiro de 2022 junior se transfere da FURIA para Complexity."
+  },
+  {
+    "data": "2022-01-15",
+    "jogador": "VINI",
+    "acao": "transferencia",
+    "origem": "FURIA",
+    "destino": "Last",
+    "descricao": "Na data 15 de Janeiro de 2022 VINI se transfere da FURIA para Last Dance."
+  },
+  {
+    "data": "2022-01-06",
+    "jogador": "saffee",
+    "acao": "transferencia",
+    "origem": "paiN",
+    "destino": "FURIA",
+    "descricao": "Na data 6 de Janeiro de 2022 saffee se transfere da paiN para FURIA."
+  },
+  {
+    "data": "2022-01-05",
+    "jogador": "junior",
+    "acao": "transferencia",
+    "origem": "Bad News Bears",
+    "destino": "FURIA",
+    "descricao": "Na data 5 de Janeiro de 2022 junior se transfere da Bad News Bears para FURIA (benched)."
+  },
+  {
+    "data": "2021-11-25",
+    "jogador": "VINI",
+    "acao": "banco",
+    "destino": "banco da FURIA",
+    "descricao": "Na data 25 de Novembro de 2021 VINI é movido para o banco da FURIA."
+  },
+  {
+    "data": "2021-08-23",
+    "jogador": "drop",
+    "acao": "transferencia",
+    "origem": "FURIA Academy",
+    "destino": "FURIA",
+    "descricao": "Na data 23 de Agosto de 2021 drop se transfere da FURIA Academy para FURIA."
+  },
+  {
+    "data": "2021-08-23",
+    "jogador": "honda",
+    "acao": "transferencia",
+    "origem": "FURIA",
+    "destino": "FURIA",
+    "descricao": "Na data 23 de Agosto de 2021 honda se transfere da FURIA para FURIA Academy."
+  },
+  {
+    "data": "2021-08-04",
+    "jogador": "junior",
+    "acao": "transferencia",
+    "origem": "FURIA",
+    "destino": "Bad",
+    "descricao": "Na data 4 de Agosto de 2021 junior se transfere da FURIA para Bad News Bears."
+  },
+  {
+    "data": "2021-06-03",
+    "jogador": "junior",
+    "acao": "banco",
+    "destino": "banco da FURIA",
+    "descricao": "Na data 3 de Junho de 2021 junior é movido para o banco da FURIA."
+  },
+  {
+    "data": "2021-06-03",
+    "jogador": "honda",
+    "acao": "movimentacao",
+    "destino": "a equipe principal da FURIA",
+    "descricao": "Na data 3 de Junho de 2021 honda é movido para a equipe principal da FURIA."
+  },
+  {
+    "data": "2021-01-14",
+    "jogador": "honda",
+    "acao": "transferencia",
+    "origem": "FURIA Academy",
+    "destino": "FURIA",
+    "descricao": "Na data 14 de Janeiro de 2021 honda se transfere da FURIA Academy para FURIA as substitute."
+  },
+  {
+    "data": "2021-01-13",
+    "jogador": "junior",
+    "acao": "transferencia",
+    "origem": "Triumph",
+    "destino": "FURIA",
+    "descricao": "Na data 13 de Janeiro de 2021 junior se transfere da Triumph para FURIA."
+  },
+  {
+    "data": "2021-01-08",
+    "jogador": "HEN1",
+    "acao": "saida",
+    "origem": "FURIA",
+    "descricao": "Na data 8 de Janeiro de 2021 HEN1 sai da FURIA."
+  },
+  {
+    "data": "2019-09-24",
+    "jogador": "ableJ",
+    "acao": "saida",
+    "origem": "FURIA",
+    "descricao": "Na data 24 de Setembro de 2019 ableJ sai da FURIA."
+  },
+  {
+    "data": "2019-09-23",
+    "jogador": "HEN1",
+    "acao": "entrada",
+    "destino": "FURIA",
+    "descricao": "Na data 23 de Setembro de 2019 HEN1 se junta a FURIA."
+  },
+  {
+    "data": "2018-10-02",
+    "jogador": "ableJ",
+    "acao": "transferencia",
+    "origem": "FURIA Academy",
+    "destino": "FURIA",
+    "descricao": "Na data 2 de Outubro de 2018 ableJ se transfere da FURIA Academy para FURIA."
+  },
+  {
+    "data": "2018-10-02",
+    "jogador": "spacca",
+    "acao": "saida",
+    "origem": "FURIA",
+    "descricao": "Na data 2 de Outubro de 2018 spacca sai da FURIA."
+  },
+  {
+    "data": "2018-02-21",
+    "jogador": "KSCERATO",
+    "acao": "entrada",
+    "destino": "FURIA",
+    "descricao": "Na data 21 de Fevereiro de 2018 KSCERATO se junta a FURIA."
+  },
+  {
+    "data": "2018-02-06",
+    "jogador": "arT",
+    "acao": "transferencia",
+    "origem": "INTZ",
+    "destino": "FURIA",
+    "descricao": "Na data 6 de Fevereiro de 2018 arT se transfere da INTZ para FURIA."
+  },
+  {
+    "data": "2018-02-05",
+    "jogador": "bld",
+    "acao": "transferencia",
+    "origem": "FURIA",
+    "destino": "Yeah",
+    "descricao": "Na data 5 de Fevereiro de 2018 bld se transfere da FURIA para Yeah."
+  },
+  {
+    "data": "2018-02-05",
+    "jogador": "s1",
+    "acao": "saida",
+    "origem": "FURIA",
+    "descricao": "Na data 5 de Fevereiro de 2018 s1 sai da FURIA."
+  },
+  {
+    "data": "2018-02-02",
+    "jogador": "guerri",
+    "acao": "movimentacao",
+    "destino": "coach on FURIA",
+    "descricao": "Na data 2 de Fevereiro de 2018 guerri é movido para coach on FURIA."
+  },
+  {
+    "data": "2018-01-17",
+    "jogador": "s1",
+    "acao": "entrada",
+    "destino": "FURIA",
+    "descricao": "Na data 17 de Janeiro de 2018 s1 se junta a FURIA."
+  },
+  {
+    "data": "2017-11-09",
+    "jogador": "prd",
+    "acao": "saida",
+    "origem": "FURIA",
+    "descricao": "Na data 9 de Novembro de 2017 prd sai da FURIA."
+  },
+  {
+    "data": "2017-11-08",
+    "jogador": "yuurih",
+    "acao": "transferencia",
+    "origem": "INTZ",
+    "destino": "FURIA",
+    "descricao": "Na data 8 de Novembro de 2017 yuurih se transfere da INTZ para FURIA."
+  },
+  {
+    "data": "2017-10-07",
+    "jogador": "bld",
+    "acao": "transferencia",
+    "origem": "Merciless",
+    "destino": "FURIA",
+    "descricao": "Na data 7 de Outubro de 2017 bld se transfere da Merciless para FURIA."
+  },
+  {
+    "data": "2017-10-02",
+    "jogador": "caike",
+    "acao": "saida",
+    "origem": "FURIA",
+    "descricao": "Na data 2 de Outubro de 2017 caike sai da FURIA."
+  },
+  {
+    "data": "2017-08-10",
+    "jogador": "spacca",
+    "acao": "entrada",
+    "destino": "FURIA",
+    "descricao": "Na data 10 de Agosto de 2017 spacca se junta a FURIA."
+  },
+  {
+    "data": "2017-08-10",
+    "jogador": "prd",
+    "acao": "entrada",
+    "destino": "FURIA",
+    "descricao": "Na data 10 de Agosto de 2017 prd se junta a FURIA."
+  },
+  {
+    "data": "2017-08-10",
+    "jogador": "guerri",
+    "acao": "entrada",
+    "destino": "FURIA",
+    "descricao": "Na data 10 de Agosto de 2017 guerri se junta a FURIA."
+  },
+  {
+    "data": "2017-08-10",
+    "jogador": "caike",
+    "acao": "entrada",
+    "destino": "FURIA",
+    "descricao": "Na data 10 de Agosto de 2017 caike se junta a FURIA."
+  },
+  {
+    "data": "2017-08-10",
+    "jogador": "VINI",
+    "acao": "entrada",
+    "destino": "FURIA",
+    "descricao": "Na data 10 de Agosto de 2017 VINI se junta a FURIA."
+  }
+]

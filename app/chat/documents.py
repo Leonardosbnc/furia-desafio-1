@@ -17,7 +17,7 @@ embedder = SentenceTransformer("all-MiniLM-L6-v2")
 def normalize(text):
     text = text.lower()
     text = unidecode.unidecode(text)
-    text = re.sub(r"[^\w\s]", "", text)
+    text = re.sub(r"[^\w\s\.,!?;:()\[\]\"'/-]", "", text)
     return text.strip()
 
 

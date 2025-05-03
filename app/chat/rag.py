@@ -2,6 +2,8 @@ import os
 from openai import OpenAI
 from typing import List
 
+from .documents import normalize
+
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 MAX_TOKENS = 15000
@@ -9,7 +11,9 @@ MAX_TOKENS = 15000
 
 def rag_query(user_query: str, docs: List[str], index, embedder, top_k=4):
     try:
-        query_embedding = embedder.encode([user_query], convert_to_numpy=True)
+        query_embedding = embedder.encode(
+            [normalize(user_query)], convert_to_numpy=True
+        )
 
         _, I = index.search(query_embedding, top_k)
         retrieved_docs = [docs[i] for i in I[0]]

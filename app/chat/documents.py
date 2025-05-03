@@ -2,14 +2,23 @@ import os
 import json
 import numpy as np
 import faiss
+import re
+import unidecode
 from sentence_transformers import SentenceTransformer
-from sklearn.preprocessing import normalize
+from sklearn.preprocessing import normalize as nmlz
 
 
 EMBEDDINGS_FILE = "data/embeddings/embeddings.npy"
 INDEX_FILE = "data/embeddings/faiss_index.index"
 BATCH_SIZE = 64
 embedder = SentenceTransformer("all-MiniLM-L6-v2")
+
+
+def normalize(text):
+    text = text.lower()
+    text = unidecode.unidecode(text)
+    text = re.sub(r"[^\w\s]", "", text)
+    return text.strip()
 
 
 def format_transfer(entry):
@@ -56,12 +65,13 @@ def load_documents():
             data = json.load(f)
             if isinstance(data, list):
                 documents.extend(
-                    json.dumps(item, ensure_ascii=False) for item in data
+                    normalize(json.dumps(item, ensure_ascii=False))
+                    for item in data
                 )
             elif isinstance(data, dict):
                 for _, v in data.items():
                     documents.append(
-                        ". ".join(v) if isinstance(v, list) else v
+                        normalize(". ".join(v) if isinstance(v, list) else v)
                     )
 
             print(f"Loaded {file}")
@@ -79,14 +89,23 @@ def load_documents():
         with open(file, "r", encoding="utf-8") as f:
             match_data = json.load(f)
             for item in match_data:
-                documents.append(format_match(item))
+                documents.append(normalize(format_match(item)))
 
             print(f"Loaded {file}")
     with open("data/source/transfer_history.json", "r", encoding="utf-8") as f:
         print(f"Loading {file}")
         transfer_data = json.load(f)
         for item in transfer_data:
-            documents.append(format_transfer(item))
+            documents.append(normalize(format_transfer(item)))
+
+        print(f"Loaded {file}")
+    with open("data/source/achievements.json", "r", encoding="utf-8") as f:
+        print(f"Loading {file}")
+        achievements_data = json.load(f)
+        for item in achievements_data:
+            documents.append(normalize(item["majors"]))
+            for result in item["resultados"]:
+                documents.append(normalize(result))
 
         print(f"Loaded {file}")
 
@@ -113,7 +132,7 @@ def load_faiss_index(docs):
         os.mkdir("data/embeddings")
 
     embeddings = embed_documents(docs, embedder)
-    embeddings = normalize(embeddings, axis=1)
+    embeddings = nmlz(embeddings, axis=1)
     np.save(EMBEDDINGS_FILE, embeddings)
 
     d = embeddings.shape[1]

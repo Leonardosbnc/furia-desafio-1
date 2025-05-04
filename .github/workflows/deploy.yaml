@@ -25,6 +25,9 @@ jobs:
             export SECRET_KEY=${{ secrets.SECRET_KEY }}
             export OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}
             export CORS_ORIGIN=${{ secrets.CORS_ORIGIN }}
+            export VIRTUAL_HOST=${{ secrets.VIRTUAL_HOST }}
+            export LETSENCRYPT_HOST=${{ secrets.LETSENCRYPT_HOST }}
+            export LETSENCRYPT_EMAIL=${{ secrets.LETSENCRYPT_EMAIL }}
             export DATABASE_URL=sqlite:///./data/furia.db
 
             cd /root/furia-api
